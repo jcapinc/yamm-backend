@@ -1,0 +1,22 @@
+{
+  "name": "yet-another-money-manager",
+  "version": "1.0.0",
+  "description": "Just another money manager that works the way I feel like it should work",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcapinc/yamm.git"
+  },
+  "keywords": [
+    "finance"
+  ],
+  "author": "Jeffrey Parrish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcapinc/yamm/issues"
+  },
+  "homepage": "https://github.com/jcapinc/yamm#readme"
+}
