@@ -9,7 +9,7 @@ let dispatch = (req,res) => {
 	console.log("dispatching " + req.method + " " + req.path);
 	return app.new().dispatch(req,res);
 }
-let pattern = '/[A-Za-z\/_]+';
+let pattern = '\/[A-Za-z\/_]+';
 let expressApp = express();
 
 expressApp.get('/' , (request,response) => {response.send("hello world");});
@@ -26,4 +26,3 @@ expressApp.patch(pattern, dispatch);
 expressApp.listen(process.env.EXPRESS_PORT, () => {
 	console.log("Serving on " + process.env.EXPRESS_PORT)
 });
-

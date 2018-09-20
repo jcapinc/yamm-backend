@@ -1,4 +1,4 @@
-const Sequelize = requre("sequelize");
+const Sequelize = require("sequelize");
 require("dotenv").config();
 let uuidPrimary = {
 	type: Sequelize.UUID, 
@@ -18,10 +18,10 @@ module.exports.Account = module.exports.sequelize.define('account',{
 	name: Sequelize.STRING
 });
 
-module.exports.Transaction = module.exports.define('transactions',{
+module.exports.Transaction = module.exports.sequelize.define('transactions',{
 	id: uuidPrimary,
 	account: {
-		type: sequelize.UUID,
+		type: Sequelize.UUID,
 		references : {
 			model: module.exports.Account,
 			key: 'id'
@@ -30,7 +30,7 @@ module.exports.Transaction = module.exports.define('transactions',{
 	description: Sequelize.STRING,
 	date: Sequelize.DATE,
 	debit: Sequelize.FLOAT,
-	credit: SEQUELIZE.FLOAT
+	credit: Sequelize.FLOAT
 });
 
 module.exports.sequelize.sync();

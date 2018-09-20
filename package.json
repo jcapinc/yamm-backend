@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run dev",
     "dev": "nodemon -w app -w serve.js -w .env serve.js",
-    "debug": "node --no-lazy --inspect-brk=9229 serve.js",
+    "debug": "node --no-lazy --inspect-brk=2992  serve.js",
     "run": "node serve.js"
   },
   "repository": {
@@ -28,6 +28,7 @@
     "multer": "^1.3.1",
     "nodemon": "^1.18.4",
     "papaparse": "^4.6.0",
-    "sequelize": "^4.38.1"
+    "sequelize": "^4.38.1",
+    "sqlite3": "^4.0.2"
   }
 }

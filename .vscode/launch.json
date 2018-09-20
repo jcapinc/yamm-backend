@@ -13,13 +13,13 @@
 				"run-script",
 				"dev"
 			],
-			"port": 9229
+			"port": 2992
 		},
 		{
 			"type": "node",
 			"request": "attach",
 			"name": "Attach",
-			"port": 9229
+			"port": 2992
 		},
 		{
 			"type": "chrome",
