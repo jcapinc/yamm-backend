@@ -3,11 +3,13 @@ const parser = require("../models/CitizensBankCsvParser.js");
 
 module.exports = class InputController{
 	postImportFile(req,res){
-		let parse = new parser(req.file.buffer);
-		let ret = [];
-		for( let line of parse){
-			ret.push(line);
+		if(!this.file){
+			return res.send(JSON.stringify({
+				error: "No file uploaded"
+			}),400);
 		}
+		let parse = new parser(req.file.buffer);
+		let ret = parse.parseBuffer();
 		return res.send(JSON.stringify(res));
 	}
 }

@@ -1,16 +1,16 @@
-
+const papa = require("papaparse");
 module.exports = class CitizensBankCsvParser {
+
 	constructor(buffer){
 		this.buffer = buffer;
 		this._cursor = 0;
 	}
-	*[Symbol.iterator](){
-		if(this._cursor >= this.buffer.length) return null;
-		for(let i = 0 ; i < this.buffer.length; i++){
-			if( this.buffer[this._cursor + i] !== 10 ) continue;
-			yield this.sliceToModel(this.buffer,this._cursor,this._cursor + i);
-		}
-		yield this.sliceToModel(this.buffer,this._cursor,this._cursor.length);
+
+	parseBuffer(){
+		return papa.parse(this.buffer.toString());
+	}
+
+	parseRow(row){
 	}
 
 	reset(){
@@ -28,4 +28,5 @@ module.exports = class CitizensBankCsvParser {
 	lineToObject(line){
 		return line;
 	}
+
 }
