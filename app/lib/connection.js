@@ -6,31 +6,37 @@ let uuidPrimary = {
 	primaryKey: true
 };
 
-module.exports = {};
-
-module.exports.sequelize = new Sequelize({
+let sequelize = new Sequelize({
 	dialect: 'sqlite',
 	storage: 'database.sqlite'
 });
 
-module.exports.Account = module.exports.sequelize.define('account',{
+let Account = sequelize.define('account',{
 	id: uuidPrimary, 
 	name: Sequelize.STRING
 });
 
-module.exports.Transaction = module.exports.sequelize.define('transactions',{
+let Transaction = sequelize.define('transactions',{
 	id: uuidPrimary,
-	account: {
-		type: Sequelize.UUID,
-		references : {
-			model: module.exports.Account,
-			key: 'id'
-		}
-	},
+	account: {type: Sequelize.UUID,references : {model: Account,key: 'id'}},
 	description: Sequelize.STRING,
 	date: Sequelize.DATE,
 	debit: Sequelize.FLOAT,
 	credit: Sequelize.FLOAT
+},{uniqueKeys: {unique_transaction: true,fields: ['date','description','debit','credit']}});
+
+let Categories = sequelize.define('categories',{
+	id: uuidPrimary,
+	name: Sequelize.STRING,
+	regex: Sequelize.STRING,
+	parent: Sequelize.UUID
 });
 
-module.exports.sequelize.sync();
+let TransactionCategories = sequelize.define('transaction_categories',{
+	id:uuidPrimary,
+	transaction: {type: Sequelize.UUID,references: {model: Transaction,key: 'id'}},
+	category: {type: Sequelize.UUID,references: {model:Categories,key: 'id'}}
+},{uniqueKeys:{ unique_categorization: {fields:['transaction','category']}}});
+sequelize.sync();
+
+module.exports = {sequelize,Account,Transaction,Categories,TransactionCategories};

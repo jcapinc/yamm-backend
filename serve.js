@@ -13,7 +13,7 @@ let pattern = '\/[A-Za-z\/_]+';
 let expressApp = express();
 
 expressApp.get('/' , (request,response) => {response.send("hello world");});
-expressApp.post('/import/import_file', upload.single('transactions'), (req,res) => {
+expressApp.post('/import/importFile', upload.single('transactions'), (req,res) => {
 	console.log("upload triggered");
 	return dispatch(req,res);
 });
