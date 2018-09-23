@@ -81,4 +81,3 @@ expressApp.listen(process.env.EXPRESS_PORT, () => {
 	console.log("Serving on " + process.env.EXPRESS_PORT)
 });
 
-{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}
