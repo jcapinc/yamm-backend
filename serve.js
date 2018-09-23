@@ -11,7 +11,7 @@ require('dotenv').config();
 
 const JWTStrategy   = passportJWT.Strategy;
 const ExtractJWT = passportJWT.ExtractJwt;
-const upload = multer({dest: process.env.UPLOAD_DIRECTORY});
+const upload = multer();
 let pattern = '\/[A-Za-z\/_]+';
 let expressApp = express();
 
