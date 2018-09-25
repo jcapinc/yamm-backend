@@ -7,7 +7,8 @@
     "test": "npm run dev",
     "dev": "nodemon -w app -w serve.js -w .env serve.js",
     "debug": "node --no-lazy --inspect-brk=2992  serve.js",
-    "run": "node serve.js"
+    "run": "node serve.js",
+    "clear-db":"del database.sqlite"
   },
   "repository": {
     "type": "git",
