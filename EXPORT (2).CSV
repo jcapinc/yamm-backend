@@ -1,0 +1,1095 @@
+"Transaction Type","Date","Account Type","Description","Amount","Reference No.","Credits","Debits"
+FEE,9/21/18,Checking,"EXCHANGE FEE",-1.08," ",,$1.08
+"POS DEBIT",9/21/18,Checking,"WM SUPERCENTER    SALEM        NH            6819",-73.40," ",,$73.40
+"DIRECT DEBIT",9/21/18,Checking,"CHIPOTLE 1799     BEDFORD      NH            6801",-21.86," ",,$21.86
+"DIRECT DEBIT",9/21/18,Checking,"EVE ONLINE        REYKJAVIK                  6819",-38.85," ",,$38.85
+FEE,9/20/18,Checking,"EXCHANGE FEE",-1.08," ",,$1.08
+DEBIT,9/20/18,Checking,"CAPITAL ONE      ONLINE PMT",-5.16," ",,$5.16
+DEBIT,9/20/18,Checking,"CAPITAL ONE      ONLINE PMT",-64.86," ",,$64.86
+"POS DEBIT",9/20/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-33.32," ",,$33.32
+"POS DEBIT",9/20/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-6.17," ",,$6.17
+"POS DEBIT",9/20/18,Checking,"INSTACART SUBSCRIPHTTPSINSTACARCA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",9/20/18,Checking,"PAYPAL *CCP GAMES 35314369001                6819",-38.85," ",,$38.85
+"DIRECT DEBIT",9/20/18,Checking,"CVS/PHARMACY #0074BEDFORD      NH            6801",-0.46," ",,$0.46
+"DIRECT DEBIT",9/20/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-7.15," ",,$7.15
+"DIRECT DEBIT",9/20/18,Checking,"Steamgames.com4259425-9522985  WA            6819",-12.99," ",,$12.99
+"POS DEBIT",9/19/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-13.37," ",,$13.37
+"POS DEBIT",9/19/18,Checking,"Shaws - Osco      MERRIMACK    NH            6801",-132.56," ",,$132.56
+"DIRECT DEBIT",9/19/18,Checking,"GOOGLE *RaeScottDeg.co/helppay#CA            6819",-4.99," ",,$4.99
+"DIRECT DEBIT",9/19/18,Checking,"CHUNKY'S CINEMAS  MANCHESTER   NH            6801",-10.00," ",,$10.00
+"DIRECT DEPOSIT",9/19/18,Checking,"ROBERT HALF INTE PAYROLL",1134.12," ","$1,134.12",
+OTHER,9/18/18,Checking,,-25.00," ",,$25.00
+OTHER,9/18/18,Checking,,0.04," ",$0.04,
+DEBIT,9/18/18,Checking,"WF HOME MTG      AUTO PAY",-1424.77," ",,"$1,424.77"
+"POS DEBIT",9/18/18,Checking,"WAL-MART #2142    SALEM        NH            6819",-23.33," ",,$23.33
+"POS DEBIT",9/18/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"DIRECT DEBIT",9/18/18,Checking,"NH DOS DMV MANCHESMANCHESTER   NH            6801",-50.00," ",,$50.00
+"DIRECT DEBIT",9/18/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-6.74," ",,$6.74
+"POS DEBIT",9/17/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-17.95," ",,$17.95
+"POS DEBIT",9/17/18,Checking,"THE GRANITE YMCA  603-2328619  NH            6801",-62.00," ",,$62.00
+"DIRECT DEBIT",9/17/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-17.81," ",,$17.81
+"DIRECT DEBIT",9/17/18,Checking,"WILD ROVER PUB    MANCHESTER   NH            6819",-12.01," ",,$12.01
+"DIRECT DEBIT",9/17/18,Checking,"MCGARVEY SALOON   MANCHESTER   NH            6819",-9.00," ",,$9.00
+"POS DEBIT",9/17/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6801",-35.08," ",,$35.08
+"POS DEBIT",9/17/18,Checking,"HOBBYLOBBY 1525 S.MANCHESTER   NH            6801",-8.27," ",,$8.27
+"DIRECT DEBIT",9/17/18,Checking,"SAKU JAPAN.       MANCHESTER   NH            6801",-9.79," ",,$9.79
+"POS DEBIT",9/17/18,Checking,"Spotify USA       646-8375380  NY            6819",-9.99," ",,$9.99
+"POS DEBIT",9/17/18,Checking,"DODGE'S COUNTR    NEW BOSTON   NH            6819",-38.48," ",,$38.48
+"DIRECT DEBIT",9/17/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-37.37," ",,$37.37
+"POS DEBIT",9/17/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"DIRECT DEBIT",9/17/18,Checking,"Audible US        888-283-5051 NJ            6819",-14.95," ",,$14.95
+"DIRECT DEBIT",9/17/18,Checking,"BURGER KING #16755MANCHESTER   NH            6801",-13.93," ",,$13.93
+"DIRECT DEBIT",9/17/18,Checking,"WALMART.COM       800-966-6546 AR            6801",-39.96," ",,$39.96
+DEBIT,9/14/18,Checking,"EVERSOURCE       WEB_PAY",-313.89," ",,$313.89
+"POS DEBIT",9/14/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-17.35," ",,$17.35
+"POS DEBIT",9/14/18,Checking,"Amazon Prime      Amzn.com/billWA            6819",-119.00," ",,$119.00
+"DIRECT DEPOSIT",9/14/18,Checking,"ROBERT HALF INTE PAYROLL",1226.82," ","$1,226.82",
+"POS DEBIT",9/13/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-39.76," ",,$39.76
+"POS DEBIT",9/13/18,Checking,"WINDHAM COUNTR    WINDHAM      NH 6819",-7.26," ",,$7.26
+"POS DEBIT",9/13/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-166.91," ",,$166.91
+"DIRECT DEBIT",9/13/18,Checking,"PIZZA 911- GOFFSTOGOFFSTOWN    NH            6801",-28.85," ",,$28.85
+"DIRECT DEBIT",9/13/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6819",-8.76," ",,$8.76
+"DIRECT DEBIT",9/13/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6819",-179.99," ",,$179.99
+"DIRECT DEBIT",9/13/18,Checking,"NEW BOSTON DENTAL NEW BOSTON   NH            6819",-322.00," ",,$322.00
+"DIRECT DEBIT",9/12/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-2.71," ",,$2.71
+"DIRECT DEBIT",9/12/18,Checking,"USA*IVS VENDING MAMANCHESTER   NH            6801",-5.00," ",,$5.00
+"DIRECT DEBIT",9/12/18,Checking,"USA*IVS VENDING MAMANCHESTER   NH            6801",-5.00," ",,$5.00
+DEPOSIT,9/12/18,Checking,,50.00," ",$50.00,
+TRANSFER,9/12/18,Checking,"FROM SAVINGS     3373239967",1000.00," ","$1,000.00",
+"POS DEBIT",9/11/18,Checking,"Wal-Mart Super    SALEM        NH            6819",-70.29," ",,$70.29
+"POS DEBIT",9/11/18,Checking,"THE CHILDRENS PLACMANCHESTER   NH            6801",-29.95," ",,$29.95
+"POS DEBIT",9/11/18,Checking,"DODGE'S COUNTR    NEW BOSTON   NH            6819",-12.21," ",,$12.21
+"DIRECT DEBIT",9/11/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-12.99," ",,$12.99
+"DIRECT DEBIT",9/11/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6801",-46.87," ",,$46.87
+"DIRECT DEBIT",9/11/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-28.99," ",,$28.99
+"DIRECT DEBIT",9/11/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-23.97," ",,$23.97
+"DIRECT DEBIT",9/11/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6819",-29.99," ",,$29.99
+"POS DEBIT",9/10/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-9.17," ",,$9.17
+"DIRECT DEBIT",9/10/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-12.30," ",,$12.30
+"DIRECT DEBIT",9/10/18,Checking,"PIZZA 911- GOFFSTOGOFFSTOWN    NH            6819",-19.14," ",,$19.14
+"DIRECT DEBIT",9/10/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-34.99," ",,$34.99
+"DIRECT DEBIT",9/10/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6819",-39.98," ",,$39.98
+"ATM DEBIT",9/10/18,Checking,"11 CHURCH STREET  GOFFSTOWN    NH            6819",-100.00," ",,$100.00
+"POS DEBIT",9/10/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6801",-35.38," ",,$35.38
+"POS DEBIT",9/10/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-39.46," ",,$39.46
+"POS DEBIT",9/10/18,Checking,"GOOGLE *YouTube TV855-836-3987 CA            6819",-35.00," ",,$35.00
+"POS DEBIT",9/10/18,Checking,"Wal-Mart Super    MANCHESTER   NH            6801",-305.17," ",,$305.17
+"DIRECT DEBIT",9/10/18,Checking,"SUBWAY        0328MANCHESTER   NH            6801",-6.54," ",,$6.54
+"DIRECT DEBIT",9/10/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6819",-21.28," ",,$21.28
+"DIRECT DEBIT",9/10/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-20.98," ",,$20.98
+"DIRECT DEBIT",9/10/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-24.98," ",,$24.98
+DEBIT,9/7/18,Checking,"COMCAST 8773201  820154096",-85.95," ",,$85.95
+"DIRECT DEBIT",9/7/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-11.60," ",,$11.60
+DEBIT,9/6/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-62.00," ",,$62.00
+"POS DEBIT",9/6/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-11.63," ",,$11.63
+"POS DEBIT",9/6/18,Checking,"GOOGLE *YouTube Pr855-836-3987 CA            6819",-14.99," ",,$14.99
+"POS DEBIT",9/6/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-18.58," ",,$18.58
+"POS DEBIT",9/6/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-24.66," ",,$24.66
+"DIRECT DEBIT",9/6/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-19.68," ",,$19.68
+"DIRECT DEBIT",9/6/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"DIRECT DEPOSIT",9/6/18,Checking,"ROBERT HALF INTE PAYROLL",1149.57," ","$1,149.57",
+DEBIT,9/5/18,Checking,"FEDLOANSERVICING STDNT LOAN",-62.78," ",,$62.78
+DEBIT,9/5/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-78.00," ",,$78.00
+"DIRECT DEBIT",9/5/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-14.99," ",,$14.99
+"DIRECT DEBIT",9/5/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6819",-12.24," ",,$12.24
+"DIRECT DEBIT",9/5/18,Checking,"SUBWAY        0029GOFFSTOWN    NH            6801",-12.82," ",,$12.82
+"DIRECT DEBIT",9/5/18,Checking,"DUNKIN #306010 Q35GOFFSTOWN    NH            6801",-2.82," ",,$2.82
+DEBIT,9/4/18,Checking,"PAYPAL           VERIFYBANK",-0.15," ",,$0.15
+DEBIT,9/4/18,Checking,"PAYPAL           INST XFER",-20.96," ",,$20.96
+DEBIT,9/4/18,Checking,"GOUGH23          IAT PAYPAL",-27.18," ",,$27.18
+"POS DEBIT",9/4/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-12.99," ",,$12.99
+"POS DEBIT",9/4/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-171.37," ",,$171.37
+"POS DEBIT",9/4/18,Checking,"DOLLAR TREE       GOFFSTOWN    NH            6801",-17.00," ",,$17.00
+"POS DEBIT",9/4/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-26.15," ",,$26.15
+"DIRECT DEBIT",9/4/18,Checking,"CHIPOTLE 1799     BEDFORD      NH            6819",-15.59," ",,$15.59
+"POS DEBIT",9/4/18,Checking,"PENGUIN MART      MILFORD      NH            6819",-11.67," ",,$11.67
+"POS DEBIT",9/4/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+"POS DEBIT",9/4/18,Checking,"VERC ENTERPRIS    MANCHESTER   NH            6801",-44.78," ",,$44.78
+"DIRECT DEBIT",9/4/18,Checking,"PIZZA 911- GOFFSTOGOFFSTOWN    NH            6819",-17.22," ",,$17.22
+"DIRECT DEBIT",9/4/18,Checking,"PAYPAL *RIOT GAMES402-935-7733 CA            6819",-10.00," ",,$10.00
+"DIRECT DEPOSIT",9/4/18,Checking,"PAYPAL           VERIFYBANK",0.04," ",$0.04,
+"DIRECT DEPOSIT",9/4/18,Checking,"PAYPAL           VERIFYBANK",0.11," ",$0.11,
+DEPOSIT,9/4/18,Checking,,35.02," ",$35.02,
+"POS DEBIT",8/31/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-12.72," ",,$12.72
+"DIRECT DEBIT",8/31/18,Checking,"PAYPAL *CANDPSCHIL402-935-7733 CA            6801",-9.56," ",,$9.56
+"DIRECT DEBIT",8/31/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6801",-34.41," ",,$34.41
+"DIRECT DEPOSIT",8/31/18,Checking,"Citizens Bank    PAYROLL",309.66," ",$309.66,
+"DIRECT DEPOSIT",8/31/18,Checking,"ROBERT HALF INTE PAYROLL",1134.12," ","$1,134.12",
+DEBIT,8/30/18,Checking,"PROG NORTHERN    INS PREM",-86.51," ",,$86.51
+DEBIT,8/30/18,Checking,"VERIZON WIRELESS PAYMENTS",-145.42," ",,$145.42
+"DIRECT DEBIT",8/30/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-8.98," ",,$8.98
+"POS DEBIT",8/29/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-26.86," ",,$26.86
+"POS DEBIT",8/29/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-16.05," ",,$16.05
+"DIRECT DEBIT",8/29/18,Checking,"MCDONALD'S F7194  GOFFSTOWN    NH            6801",-11.88," ",,$11.88
+"DIRECT DEBIT",8/29/18,Checking,"TST* 33 HILLTOP   WINDHAM      NH            6819",-11.44," ",,$11.44
+"POS DEBIT",8/28/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-13.10," ",,$13.10
+"POS DEBIT",8/28/18,Checking,"Shaws - Osco      MERRIMACK    NH            6801",-123.18," ",,$123.18
+"POS DEBIT",8/28/18,Checking,"BEST BUY #536     MANCHESTER   NH            6801",-20.00," ",,$20.00
+"DIRECT DEBIT",8/28/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-20.85," ",,$20.85
+"DIRECT DEBIT",8/28/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-9.99," ",,$9.99
+"DIRECT DEBIT",8/28/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6819",-18.28," ",,$18.28
+"DIRECT DEBIT",8/27/18,Checking,"Amazon.com        Amzn.com/billWA            6819",-10.68," ",,$10.68
+"DIRECT DEBIT",8/27/18,Checking,"Amazon.com        Amzn.com/billWA            6819",-38.57," ",,$38.57
+"DIRECT DEBIT",8/27/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-14.37," ",,$14.37
+"DIRECT DEBIT",8/27/18,Checking,"SAKU JAPAN.       MANCHESTER   NH            6819",-12.84," ",,$12.84
+"POS DEBIT",8/27/18,Checking,"THE MENS WEARH    MANCHESTER   NH            6819",-669.47," ",,$669.47
+"POS DEBIT",8/27/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6819",-63.59," ",,$63.59
+"POS DEBIT",8/27/18,Checking,"NH LIQUOR STOR    BEDFORD      NH            6819",-65.25," ",,$65.25
+"DIRECT DEBIT",8/27/18,Checking,"SQ *MANCHESTER CHRBEDFORD      NH            6801",-8.00," ",,$8.00
+"DIRECT DEBIT",8/27/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-24.44," ",,$24.44
+"DIRECT DEBIT",8/27/18,Checking,"AMZN Mktp US      Amzn.com/billWA 6801",-8.29," ",,$8.29
+"DIRECT DEBIT",8/27/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6801",-9.98," ",,$9.98
+TRANSFER,8/27/18,Checking,"TO SAVINGS       3373239967",-500.00," ",,$500.00
+"DIRECT DEBIT",8/27/18,Checking,"PIZZA 911- GOFFSTOGOFFSTOWN    NH            6819",-26.67," ",,$26.67
+"ATM DEBIT",8/27/18,Checking,"539 DONALD ST     BEDFORD      NH            6801",-60.00," ",,$60.00
+"POS DEBIT",8/27/18,Checking,"CIRCLE K 07263    BEDFORD      NH            6801",-35.73," ",,$35.73
+"DIRECT DEBIT",8/27/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-13.34," ",,$13.34
+"DIRECT DEBIT",8/27/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-26.61," ",,$26.61
+"DIRECT DEBIT",8/27/18,Checking,"MCGARVEY SALOON   MANCHESTER   NH            6819",-13.00," ",,$13.00
+"DIRECT DEBIT",8/27/18,Checking,"GOOGLE *MA        g.co/helppay#CA            6801",-0.99," ",,$0.99
+"DIRECT DEBIT",8/27/18,Checking,"MCDONALD'S F26674 WINDHAM      NH            6819",-10.67," ",,$10.67
+"POS DEBIT",8/24/18,Checking,"CVS/PHARMACY #00 0BEDFORD      NH            6801",-32.48," ",,$32.48
+"DIRECT DEBIT",8/24/18,Checking,"MCDONALD'S F7194  GOFFSTOWN    NH            6801",-8.92," ",,$8.92
+"DIRECT DEBIT",8/24/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-37.99," ",,$37.99
+"DIRECT DEBIT",8/24/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-34.82," ",,$34.82
+"DIRECT DEBIT",8/24/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6819",-11.94," ",,$11.94
+"DIRECT DEPOSIT",8/24/18,Checking,"Citizens Bank    PAYROLL",547.78," ",$547.78,
+"POS DEBIT",8/23/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-35.68," ",,$35.68
+"POS DEBIT",8/23/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-10.91," ",,$10.91
+"POS DEBIT",8/23/18,Checking,"GOOGLE *Duolingo  855-836-3987 CA            6819",-9.99," ",,$9.99
+"DIRECT DEBIT",8/23/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6801",-34.41," ",,$34.41
+"DIRECT DEBIT",8/22/18,Checking,"GOOGLE *AMdroid Apg.co/helppay#CA            6819",-1.99," ",,$1.99
+"DIRECT DEBIT",8/22/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-12.00," ",,$12.00
+"DIRECT DEPOSIT",8/22/18,Checking,"ROBERT HALF INTE PAYROLL",1157.30," ","$1,157.30",
+"DIRECT DEBIT",8/21/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-39.98," ",,$39.98
+"DIRECT DEBIT",8/21/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6801",-76.07," ",,$76.07
+"DIRECT DEBIT",8/21/18,Checking,"USPS.COM POSTAL ST800-782-6724 MO            6801",-11.25," ",,$11.25
+"DIRECT DEBIT",8/21/18,Checking,"Steamgames.com4259425-9522985  WA            6819",-10.99," ",,$10.99
+"POS DEBIT",8/20/18,Checking,"WM SUPERCENTER    SALEM        NH            6819",-52.11," ",,$52.11
+"DIRECT DEBIT",8/20/18,Checking,"GOOGLE *BitTorrentg.co/helppay#CA            6819",-2.99," ",,$2.99
+"POS DEBIT",8/20/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-48.68," ",,$48.68
+"DIRECT DEBIT",8/20/18,Checking,"GOOGLE *MA        g.co/helppay#CA            6801",-4.99," ",,$4.99
+"DIRECT DEBIT",8/20/18,Checking,"GOOGLE*CHEESEANDBAG.CO HELPPAY#CA            6819",-1.99," ",,$1.99
+"POS DEBIT",8/20/18,Checking,"INSTACART SUBSCRIPHTTPSINSTACARCA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",8/20/18,Checking,"GOOGLE *CheeseandBg.co/helppay#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",8/20/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-12.81," ",,$12.81
+"POS DEBIT",8/20/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-57.68," ",,$57.68
+"POS DEBIT",8/20/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"DIRECT DEBIT",8/20/18,Checking,"UBER   TRIP XNNWE HELP.UBER.COMCA            6801",-11.71," ",,$11.71
+"DIRECT DEBIT",8/20/18,Checking,"MCGARVEY SALOON   MANCHESTER   NH            6801",-33.00," ",,$33.00
+"DIRECT DEBIT",8/20/18,Checking,"8ONE5             HUDSON       NH            6801",-26.80," ",,$26.80
+"DIRECT DEBIT",8/20/18,Checking,"STEAMGAMES.COM 425425-8899642  WA            6819",-9.99," ",,$9.99
+"DIRECT DEBIT",8/20/18,Checking,"UBER   TRIP YEBII HELP.UBER.COMCA            6801",-13.22," ",,$13.22
+CHECK,8/17/18,Checking,,-30.00,143,,$30.00
+DEBIT,8/17/18,Checking,"WF HOME MTG      AUTO PAY",-1424.77," ",,"$1,424.77"
+"POS DEBIT",8/17/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-34.31," ",,$34.31
+"DIRECT DEBIT",8/17/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-4.22," ",,$4.22
+"DIRECT DEBIT",8/17/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6801",-7.88," ",,$7.88
+"DIRECT DEBIT",8/17/18,Checking,"WALMART.COM       800-966-6546 AR            6801",-99.00," ",,$99.00
+"DIRECT DEBIT",8/17/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6801",-10.76," ",,$10.76
+"DIRECT DEPOSIT",8/17/18,Checking,"Citizens Bank    PAYROLL",190.03," ",$190.03,
+"DIRECT DEPOSIT",8/17/18,Checking,"ROBERT HALF INTE PAYROLL",1134.13," ","$1,134.13",
+CHECK,8/16/18,Checking,,-250.00,142,,$250.00
+"POS DEBIT",8/16/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-59.76," ",,$59.76
+"DIRECT DEBIT",8/16/18,Checking,"MCDONALD'S F7194  GOFFSTOWN    NH            6801",-12.21," ",,$12.21
+"DIRECT DEBIT",8/16/18,Checking,"BETTERHELP  *DR.MU8886889296   CA            6819",-180.00," ",,$180.00
+OTHER,8/15/18,Checking,,0.06," ",$0.06,
+"POS DEBIT",8/15/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-195.94," ",,$195.94
+"POS DEBIT",8/15/18,Checking,"Spotify USA       646-8375380  NY            6819",-9.99," ",,$9.99
+"DIRECT DEBIT",8/15/18,Checking,"Audible           Amzn.com/billNJ            6819",-12.24," ",,$12.24
+TRANSFER,8/15/18,Checking,"TO SAVINGS       3373239967",-500.00," ",,$500.00
+"POS DEBIT",8/15/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"POS DEBIT",8/15/18,Checking,"SCAS WORTHEN I    BEDFORD      NH            6819",-3.28," ",,$3.28
+"POS DEBIT",8/15/18,Checking,"SCAS WORTHEN I    BEDFORD      NH            6819",-38.55," ",,$38.55
+"DIRECT DEBIT",8/15/18,Checking,"Audible           Amzn.com/billNJ            6819",-14.95," ",,$14.95
+"DIRECT DEBIT",8/15/18,Checking,"GRANFANALLYS PIZZA603-8984412  NH            6819",-14.39," ",,$14.39
+CREDIT,8/15/18,Checking,"Audible           Amzn.com/billNJ            6819",12.24," ",$12.24,
+"DIRECT DEBIT",8/14/18,Checking,"INSTACART         HTTPSINSTACARCA            6819",-88.35," ",,$88.35
+"DIRECT DEBIT",8/13/18,Checking,"STARBUCKS 4MA11   LUDLOW       MA            6801",-8.88," ",,$8.88
+"POS DEBIT",8/13/18,Checking,"SIX FLAGS NEW ENGLAGAWAM       MA            6801",-15.99," ",,$15.99
+"DIRECT DEBIT",8/13/18,Checking,"AROMA JOES COFFEE MANCHESTER   NH            6819",-4.91," ",,$4.91
+"DIRECT DEBIT",8/13/18,Checking,"NEW YUKI JAPANESE MANCHESTER   NH            6819",-21.80," ",,$21.80
+"POS DEBIT",8/13/18,Checking,"7-ELEVEN          MERRIMACK    NH            6801",-32.99," ",,$32.99
+"DIRECT DEBIT",8/13/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-9.54," ",,$9.54
+"DIRECT DEBIT",8/13/18,Checking,"SHORTYS MEXICAN ROMANCHESTER   NH            6819",-49.20," ",,$49.20
+"DIRECT DEBIT",8/13/18,Checking,"CINEMAGIC & IMAX,H603-644-4629 NH            6801",-32.45," ",,$32.45
+"DIRECT DEBIT",8/13/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-14.54," ",,$14.54
+"DIRECT DEBIT",8/13/18,Checking,"MCGARVEY SALOON   MANCHESTER   NH            6819",-25.00," ",,$25.00
+"DIRECT DEBIT",8/13/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6801",-9.99," ",,$9.99
+"DIRECT DEBIT",8/13/18,Checking,"WASABI STEAK HOUSESALEM        NH            6819",-20.39," ",,$20.39
+"POS DEBIT",8/10/18,Checking,"CIRCLE K 07238    SALEM        NH            6819",-36.32," ",,$36.32
+"DIRECT DEBIT",8/10/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-5.43," ",,$5.43
+"DIRECT DEBIT",8/10/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6801",-32.86," ",,$32.86
+"DIRECT DEBIT",8/10/18,Checking,"HAMPTON-METERS    CONCORD      NH            6801",-4.00," ",,$4.00
+"DIRECT DEBIT",8/10/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-10.31," ",,$10.31
+"DIRECT DEBIT",8/10/18,Checking,"Amazon.com        Amzn.com/billWA            6801",-36.53," ",,$36.53
+"DIRECT DEPOSIT",8/10/18,Checking,"Citizens Bank    PAYROLL",190.02," ",$190.02,
+"DIRECT DEPOSIT",8/10/18,Checking,"ROBERT HALF INTE PAYROLL",1134.12," ","$1,134.12",
+"DIRECT DEBIT",8/9/18,Checking,"PP*FOODA          CHICAGO      IL            6819",-13.00," ",,$13.00
+"DIRECT DEBIT",8/9/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-4.87," ",,$4.87
+"POS DEBIT",8/8/18,Checking,"HANNAFORD #843    Bedford      NH            6801",-90.50," ",,$90.50
+"POS DEBIT",8/8/18,Checking,"CIRCLE K 07263    BEDFORD      NH            6801",-28.88," ",,$28.88
+"POS DEBIT",8/8/18,Checking,"GOOGLE *YouTube TV855-836-3987 CA            6819",-35.00," ",,$35.00
+"DIRECT DEBIT",8/8/18,Checking,"GO OPTIC COM      877-6342020  DE            6819",-111.95," ",,$111.95
+"DIRECT DEBIT",8/8/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6801",-18.98," ",,$18.98
+DEBIT,8/7/18,Checking,"COMCAST 8773201  820154096",-85.95," ",,$85.95
+"DIRECT DEBIT",8/7/18,Checking,"GOOGLE*PEAKGAMES  G.CO HELPPAY#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",8/7/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-29.90," ",,$29.90
+"DIRECT DEBIT",8/7/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-15.57," ",,$15.57
+"DIRECT DEBIT",8/7/18,Checking,"INSTACART         HTTPSINSTACARCA            6819",-277.42," ",,$277.42
+"DIRECT DEBIT",8/7/18,Checking,"PANDORA*INTERNET RPDORA.COM/BILCA            6819",-54.89," ",,$54.89
+"DIRECT DEBIT",8/7/18,Checking,"GRUBHUBASIANKABABGGRUBHUB.COM  NY            6819",-32.22," ",,$32.22
+"DIRECT DEBIT",8/7/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-11.20," ",,$11.20
+DEBIT,8/6/18,Checking,"FEDLOANSERVICING STDNT LOAN",-62.78," ",,$62.78
+"POS DEBIT",8/6/18,Checking,"GOOGLE *YouTube Pr855-836-3987 CA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",8/6/18,Checking,"Amazon.com        Amzn.com/billWA            6801",-15.48," ",,$15.48
+"DIRECT DEBIT",8/6/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-31.46," ",,$31.46
+"DIRECT DEBIT",8/6/18,Checking,"AMZN Mktp US      Amzn.com/billWA            6801",-6.59," ",,$6.59
+"DIRECT DEBIT",8/6/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-21.40," ",,$21.40
+"DIRECT DEBIT",8/6/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"DIRECT DEBIT",8/6/18,Checking,"GOOGLE*PEAKGAMES  G.CO HELPPAY#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",8/6/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6819",-69.00," ",,$69.00
+"DIRECT DEBIT",8/6/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-15.88," ",,$15.88
+"DIRECT DEBIT",8/6/18,Checking,"CIRCLE K 07037    AUGUSTA      ME            6801",-13.04," ",,$13.04
+"POS DEBIT",8/6/18,Checking,"Wal-Mart Super    AUGUSTA      ME            6801",-33.44," ",,$33.44
+"DIRECT DEBIT",8/6/18,Checking,"AMZN MKTP US AMZN.AMZN.COM/BILLWA            6819",-25.99," ",,$25.99
+"DIRECT DEBIT",8/6/18,Checking,"KUME SUSHI HIBACHIAUGUSTA      ME            6819",-82.50," ",,$82.50
+"DIRECT DEBIT",8/3/18,Checking,"STEAMGAMES.COM 425425-8899642  WA            6819",-4.99," ",,$4.99
+"DIRECT DEPOSIT",8/3/18,Checking,"Citizens Bank    PAYROLL",1031.32," ","$1,031.32",
+"DIRECT DEPOSIT",8/3/18,Checking,"ROBERT HALF INTE PAYROLL",1211.37," ","$1,211.37",
+DEBIT,8/2/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-76.00," ",,$76.00
+"POS DEBIT",8/2/18,Checking,"OLD NAVY US 6155  AUGUSTA      ME            6801",-58.11," ",,$58.11
+DEBIT,8/1/18,Checking,"VERIZON WIRELESS PAYMENTS",-145.42," ",,$145.42
+"POS DEBIT",8/1/18,Checking,"HANNAFORD #823    AUGUSTA      ME            6819",-2.99," ",,$2.99
+"POS DEBIT",8/1/18,Checking,"HANNAFORD #823    AUGUSTA      ME            6819",-234.07," ",,$234.07
+"POS DEBIT",8/1/18,Checking,"OLD NAVY US 6155  AUGUSTA      ME            6801",-10.54," ",,$10.54
+"POS DEBIT",8/1/18,Checking,"OLD NAVY US 6155  AUGUSTA      ME            6801",-27.37," ",,$27.37
+"POS DEBIT",8/1/18,Checking,"ULTA #412         AUGUSTA      ME            6801",-60.12," ",,$60.12
+"POS DEBIT",8/1/18,Checking,"MAURICE'S #1407 MAAUGUSTA      ME            6801",-7.91," ",,$7.91
+"POS DEBIT",8/1/18,Checking,"THE CHILDRENS PLACAUGUSTA      ME            6801",-31.53," ",,$31.53
+"POS DEBIT",8/1/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+DEBIT,7/31/18,Checking,"PROG NORTHERN    INS PREM",-86.51," ",,$86.51
+"DIRECT DEBIT",7/31/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-15.98," ",,$15.98
+"POS DEBIT",7/30/18,Checking,"WM SUPERCENTER    AUGUSTA      ME            6801",-10.04," ",,$10.04
+"POS DEBIT",7/30/18,Checking,"WM SUPERCENTER    AUGUSTA      ME            6801",-121.89," ",,$121.89
+"POS DEBIT",7/30/18,Checking,"DENNY'S #7181     AUGUSTA      ME            6801",-35.58," ",,$35.58
+"POS DEBIT",7/30/18,Checking,"SHELL Service StatGOFFSTOWN    NH            6819",-32.94," ",,$32.94
+"DIRECT DEBIT",7/30/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-10.85," ",,$10.85
+"DIRECT DEBIT",7/30/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6801",-23.69," ",,$23.69
+"DIRECT DEBIT",7/30/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-11.99," ",,$11.99
+"POS DEBIT",7/27/18,Checking,"WM SUPERCENTER    SALEM        NH            6819",-30.37," ",,$30.37
+"DIRECT DEBIT",7/27/18,Checking,"Steamgames.com4259425-9522985  WA            6819",-4.99," ",,$4.99
+"POS DEBIT",7/26/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-40.80," ",,$40.80
+"POS DEBIT",7/26/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-25.68," ",,$25.68
+"DIRECT DEBIT",7/26/18,Checking,"GOOGLE *PeakGames g.co/helppay#CA            6801",-4.99," ",,$4.99
+"DIRECT DEBIT",7/26/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-20.99," ",,$20.99
+"DIRECT DEPOSIT",7/26/18,Checking,"ROBERT HALF INTE PAYROLL",1046.90," ","$1,046.90",
+"POS DEBIT",7/25/18,Checking,"CIRCLE K 07233    GOFFSTOWN    NH            6819",-10.59," ",,$10.59
+"DIRECT DEBIT",7/24/18,Checking,"GOOGLE *PeakGames g.co/helppay#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",7/24/18,Checking,"MADDIES           SALEM        NH            6819",-11.93," ",,$11.93
+"DIRECT DEBIT",7/24/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-14.89," ",,$14.89
+"DIRECT DEBIT",7/24/18,Checking,"WALMART.COM 800966800-966-6546 AR            6801",-5.33," ",,$5.33
+FEE,7/23/18,Checking,"EXCHANGE FEE",-0.69," ",,$0.69
+DEBIT,7/23/18,Checking,"WF HOME MTG      AUTO PAY",-1456.84," ",,"$1,456.84"
+"POS DEBIT",7/23/18,Checking,"GOOGLE *Duolingo  855-836-3987 CA            6819",-9.99," ",,$9.99
+"POS DEBIT",7/23/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-419.19," ",,$419.19
+"DIRECT DEBIT",7/23/18,Checking,"MCDONALD'S F7194  GOFFSTOWN    NH            6801",-11.34," ",,$11.34
+"POS DEBIT",7/23/18,Checking,"PETSMART # 186    MANCHESTER   NH            6819",-105.99," ",,$105.99
+"DIRECT DEBIT",7/23/18,Checking,"SAKU JAPAN.       MANCHESTER   NH            6819",-12.84," ",,$12.84
+"DIRECT DEBIT",7/23/18,Checking,"SAKU JAPAN.       MANCHESTER   NH            6819",-9.79," ",,$9.79
+"DIRECT DEBIT",7/23/18,Checking,"GOOGLE *PeakGames g.co/helppay#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",7/23/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-11.29," ",,$11.29
+"DIRECT DEBIT",7/23/18,Checking,"Audible           adbl.co/bill NJ            6819",-9.95," ",,$9.95
+"DIRECT DEBIT",7/23/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-17.99," ",,$17.99
+"DIRECT DEBIT",7/23/18,Checking,"EUROSTEP COMMERCE MILAN      TV              6801",-24.90," ",,$24.90
+CHECK,7/20/18,Checking,,-69.00,139,,$69.00
+CHECK,7/20/18,Checking,,-72.00,141,,$72.00
+CHECK,7/20/18,Checking,,-72.00,140,,$72.00
+"DIRECT DEBIT",7/20/18,Checking,"TIRE WAREHSE 90000GOFFSTOWN    NH            6801",-70.00," ",,$70.00
+CHECK,7/19/18,Checking,,-107.80,136,,$107.80
+"POS DEBIT",7/19/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-115.43," ",,$115.43
+"POS DEBIT",7/19/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6819",-36.54," ",,$36.54
+"POS DEBIT",7/19/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6819",-9.50," ",,$9.50
+"DIRECT DEBIT",7/19/18,Checking,"GOOGLE *PeakGames g.co/helppay#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",7/19/18,Checking,"RS*DOMAINNAME REGI425-2744500  WA            6819",-25.00," ",,$25.00
+"DIRECT DEBIT",7/19/18,Checking,"BETTERHELP  *DR.MU8886889296   CA            6819",-180.00," ",,$180.00
+"DIRECT DEPOSIT",7/19/18,Checking,"ROBERT HALF INTE PAYROLL",1070.07," ","$1,070.07",
+CHECK,7/18/18,Checking,,-56.42,138,,$56.42
+"POS DEBIT",7/18/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"POS DEBIT",7/18/18,Checking,"INSTACART SUBSCRIPHTTPSINSTACARCA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",7/18/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6801",-26.94," ",,$26.94
+OTHER,7/17/18,Checking,,0.10," ",$0.10,
+"POS DEBIT",7/17/18,Checking,"GOFFSTOWN ANIM    MANCHESTER   NH            6801",-487.50," ",,$487.50
+"DIRECT DEBIT",7/17/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-12.95," ",,$12.95
+DEBIT,7/16/18,Checking,"CHASE CREDIT CRD AUTOPAY",-98.88," ",,$98.88
+"DIRECT DEBIT",7/16/18,Checking,"STEAMGAMES.COM    425-889-9642 WA            6819",-10.07," ",,$10.07
+"DIRECT DEBIT",7/16/18,Checking,"SIX FLAGS NEW ENGL413-786-9300 MA            6801",-97.36," ",,$97.36
+"POS DEBIT",7/16/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"POS DEBIT",7/16/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-79.25," ",,$79.25
+"DIRECT DEBIT",7/16/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-9.88," ",,$9.88
+"POS DEBIT",7/16/18,Checking,"CITGO-SILVAMART   MILFORD      NH            6819",-35.58," ",,$35.58
+"DIRECT DEBIT",7/16/18,Checking,"Audible           adbl.co/bill NJ            6819",-14.95," ",,$14.95
+"DIRECT DEBIT",7/16/18,Checking,"Audible           adbl.co/bill NJ            6819",-12.24," ",,$12.24
+"DIRECT DEBIT",7/16/18,Checking,"GOOGLE*PEAKGAMES  G.CO HELPPAY#CA            6801",-4.99," ",,$4.99
+"DIRECT DEBIT",7/16/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-9.56," ",,$9.56
+"DIRECT DEBIT",7/16/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-9.99," ",,$9.99
+"DIRECT DEBIT",7/16/18,Checking,"SHUTTERFLY        800-986-1065 CA            6801",-29.98," ",,$29.98
+"POS DEBIT",7/13/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-113.28," ",,$113.28
+"DIRECT DEBIT",7/13/18,Checking,"ATLANTIC INNOVATIO888-660-8970 NH            6801",-27.56," ",,$27.56
+"DIRECT DEBIT",7/13/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-9.34," ",,$9.34
+"DIRECT DEBIT",7/13/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-14.76," ",,$14.76
+"DIRECT DEBIT",7/13/18,Checking,"POOR BOYS         LONDONDERRY  NH            6819",-17.31," ",,$17.31
+"DIRECT DEBIT",7/13/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-24.99," ",,$24.99
+"DIRECT DEBIT",7/13/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-96.07," ",,$96.07
+"DIRECT DEPOSIT",7/13/18,Checking,"ROBERT HALF INTE PAYROLL",1039.18," ","$1,039.18",
+FEE,7/12/18,Checking,"EXCHANGE FEE",-0.55," ",,$0.55
+DEBIT,7/12/18,Checking,"CAPITAL ONE      ONLINE PMT",-64.85," ",,$64.85
+DEBIT,7/12/18,Checking,"CAPITAL ONE      ONLINE PMT",-244.52," ",,$244.52
+"POS DEBIT",7/12/18,Checking,"WWW.DI.FM         HTTPSDI.FM   CO            6819",-70.00," ",,$70.00
+"DIRECT DEBIT",7/12/18,Checking,"GOOGLE *PeakGames g.co/helppay#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",7/12/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-18.76," ",,$18.76
+"DIRECT DEBIT",7/12/18,Checking,"EUROSTEP COMMERCE MILAN      TV              6819",-19.90," ",,$19.90
+CHECK,7/11/18,Checking,,-215.00,135,,$215.00
+"DIRECT DEBIT",7/11/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-12.33," ",,$12.33
+"DIRECT DEBIT",7/11/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-6.51," ",,$6.51
+"DIRECT DEBIT",7/10/18,Checking,"Audible           adbl.co/bill NJ            6819",-12.59," ",,$12.59
+"DIRECT DEBIT",7/10/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6819",-32.00," ",,$32.00
+"DIRECT DEBIT",7/10/18,Checking,"ATLANTIC INNOVATIO888-660-8970 NH            6819",-35.66," ",,$35.66
+"POS DEBIT",7/10/18,Checking,"CIRCLE K 07233    GOFFSTOWN    NH            6819",-42.16," ",,$42.16
+"DIRECT DEBIT",7/10/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6819",-15.93," ",,$15.93
+"DIRECT DEBIT",7/10/18,Checking,"HANNAFORD #8311   MANCHESTER   NH            6801",-173.23," ",,$173.23
+"DIRECT DEBIT",7/10/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6819",-2.71," ",,$2.71
+DEBIT,7/9/18,Checking,"COMCAST 8773201  820154096",-85.95," ",,$85.95
+"POS DEBIT",7/9/18,Checking,"Wal-Mart Store    BEDFORD      NH            6801",-30.14," ",,$30.14
+"POS DEBIT",7/9/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-38.16," ",,$38.16
+"POS DEBIT",7/9/18,Checking,"WM SUPERCENTER    AMHERST      NH            6801",-8.03," ",,$8.03
+"POS DEBIT",7/9/18,Checking,"WM SUPERCENTER    AMHERST      NH            6801",-58.00," ",,$58.00
+"DIRECT DEBIT",7/9/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-18.58," ",,$18.58
+"POS DEBIT",7/9/18,Checking,"GOOGLE *YouTube TV855-836-3987 CA            6819",-35.00," ",,$35.00
+"DIRECT DEBIT",7/9/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-17.97," ",,$17.97
+"DIRECT DEBIT",7/9/18,Checking,"GOOGLE *PeakGames g.co/helppay#CA            6801",-4.99," ",,$4.99
+"DIRECT DEBIT",7/9/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6819",-30.86," ",,$30.86
+"DIRECT DEBIT",7/9/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-33.84," ",,$33.84
+"POS DEBIT",7/6/18,Checking,"GOOGLE *YouTube Pr855-836-3987 CA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",7/6/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6819",-14.18," ",,$14.18
+"DIRECT DEBIT",7/6/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6819",-10.84," ",,$10.84
+"DIRECT DEBIT",7/6/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-21.75," ",,$21.75
+"DIRECT DEBIT",7/6/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"DIRECT DEBIT",7/5/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-34.99," ",,$34.99
+"DIRECT DEBIT",7/5/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-13.95," ",,$13.95
+"DIRECT DEBIT",7/5/18,Checking,"USPS.COM POSTAL ST800-782-6724 MO            6801",-11.25," ",,$11.25
+"DIRECT DEBIT",7/5/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-8.70," ",,$8.70
+"DIRECT DEPOSIT",7/5/18,Checking,"ROBERT HALF INTE PAYROLL",1145.54," ","$1,145.54",
+DEBIT,7/3/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-76.00," ",,$76.00
+"POS DEBIT",7/3/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6819",-28.98," ",,$28.98
+"DIRECT DEBIT",7/3/18,Checking,"INSTACART         HTTPSINSTACARCA            6819",-70.49," ",,$70.49
+"DIRECT DEBIT",7/3/18,Checking,"MADDIES           SALEM        NH            6819",-12.18," ",,$12.18
+"DIRECT DEBIT",7/3/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-7.28," ",,$7.28
+DEBIT,7/2/18,Checking,"PROG NORTHERN    INS PREM",-86.51," ",,$86.51
+DEBIT,7/2/18,Checking,"VERIZON WIRELESS PAYMENTS",-145.56," ",,$145.56
+"DIRECT DEBIT",7/2/18,Checking,"Audible           adbl.co/bill NJ            6819",-12.24," ",,$12.24
+"DIRECT DEBIT",7/2/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-33.74," ",,$33.74
+"POS DEBIT",7/2/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6801",-8.76," ",,$8.76
+"POS DEBIT",7/2/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+"DIRECT DEBIT",7/2/18,Checking,"RiotGam*LoL LN85LD866-373-9211 CA            6819",-20.00," ",,$20.00
+"DIRECT DEBIT",7/2/18,Checking,"WWW.NEWEGG.COM    800-390-1119 CA            6819",-255.88," ",,$255.88
+"POS DEBIT",7/2/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6819",-27.81," ",,$27.81
+"DIRECT DEBIT",7/2/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-37.84," ",,$37.84
+"DIRECT DEBIT",7/2/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-13.34," ",,$13.34
+"DIRECT DEBIT",7/2/18,Checking,"VIKSTERS PIZZA    GOFFSTOWN    NH            6801",-30.16," ",,$30.16
+"DIRECT DEBIT",7/2/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-38.32," ",,$38.32
+"DIRECT DEBIT",7/2/18,Checking,"MADDIES           SALEM        NH            6819",-12.35," ",,$12.35
+"DIRECT DEBIT",7/2/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-8.99," ",,$8.99
+"DIRECT DEBIT",6/29/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-88.97," ",,$88.97
+"DIRECT DEBIT",6/29/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-9.99," ",,$9.99
+"DIRECT DEBIT",6/29/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-22.94," ",,$22.94
+"DIRECT DEPOSIT",6/29/18,Checking,"ROBERT HALF INTE PAYROLL",1145.52," ","$1,145.52",
+"POS DEBIT",6/28/18,Checking,"WINDHAM COUNTR    WINDHAM      NH            6819",-37.79," ",,$37.79
+"DIRECT DEBIT",6/28/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-13.99," ",,$13.99
+"DIRECT DEBIT",6/28/18,Checking,"VIKSTERS PIZZA    GOFFSTOWN    NH            6801",-29.89," ",,$29.89
+"DIRECT DEBIT",6/27/18,Checking,"SMARTSTYLE        AMHERST      NH            6801",-72.99," ",,$72.99
+"DIRECT DEBIT",6/27/18,Checking,"ARBYS 8533        NASHUA       NH            6801",-13.49," ",,$13.49
+"DIRECT DEBIT",6/27/18,Checking,"SPACE ENTERTAINMENHOOKSETT     NH            6819",-20.00," ",,$20.00
+"DIRECT DEBIT",6/27/18,Checking,"WALMART.COM 800966800-966-6546 AR            6801",-19.99," ",,$19.99
+"POS DEBIT",6/26/18,Checking,"Wal-Mart Super    AMHERST      NH            6801",-218.43," ",,$218.43
+"DIRECT DEBIT",6/26/18,Checking,"GOOGLE *PeakGames g.co/helppay#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",6/26/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-14.84," ",,$14.84
+"DIRECT DEBIT",6/26/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-9.98," ",,$9.98
+"DIRECT DEBIT",6/26/18,Checking,"RS*DOMAINNAME REGI425-2744500  WA            6819",-50.00," ",,$50.00
+FEE,6/25/18,Checking,"EXCHANGE FEE",-0.92," ",,$0.92
+"POS DEBIT",6/25/18,Checking,"PAYPAL *COMCODE   402-935-7733 CA            6819",-9.99," ",,$9.99
+"POS DEBIT",6/25/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-15.78," ",,$15.78
+"POS DEBIT",6/25/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-71.05," ",,$71.05
+"POS DEBIT",6/25/18,Checking,"GOOGLE *Duolingo  Mountain ViewCA            6819",-9.99," ",,$9.99
+"DIRECT DEBIT",6/25/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-24.96," ",,$24.96
+"DIRECT DEBIT",6/25/18,Checking,"EVE ONLINE        REYKJAVIK                  6819",-33.02," ",,$33.02
+"DIRECT DEPOSIT",6/25/18,Checking,"ROBERT HALF INTE PAYROLL",1145.53," ","$1,145.53",
+FEE,6/22/18,Checking,"EXCHANGE FEE",-0.92," ",,$0.92
+"DIRECT DEBIT",6/22/18,Checking,"PAYPAL *CCP GAMES 35314369001                6819",-33.02," ",,$33.02
+"DIRECT DEBIT",6/22/18,Checking,"VISTAPR*VistaPrint866-8936743  MA            6801",-28.99," ",,$28.99
+"DIRECT DEBIT",6/22/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-17.98," ",,$17.98
+"DIRECT DEBIT",6/22/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-9.99," ",,$9.99
+"DIRECT DEBIT",6/22/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6819",-29.84," ",,$29.84
+"DIRECT DEBIT",6/22/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6819",-11.24," ",,$11.24
+"DIRECT DEBIT",6/22/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6819",-13.96," ",,$13.96
+"DIRECT DEBIT",6/22/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-8.79," ",,$8.79
+"DIRECT DEBIT",6/22/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-16.78," ",,$16.78
+"DIRECT DEPOSIT",6/22/18,Checking,"Citizens Bank    PAYROLL",98.57," ",$98.57,
+"POS DEBIT",6/21/18,Checking,"GOOGLE *PeakGames Mountain ViewCA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",6/21/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-17.44," ",,$17.44
+"DIRECT DEBIT",6/21/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-45.98," ",,$45.98
+"DIRECT DEBIT",6/21/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6819",-11.95," ",,$11.95
+"DIRECT DEBIT",6/21/18,Checking,"BETTERHELP  *DR.MU8886889296   CA            6819",-180.00," ",,$180.00
+"DIRECT DEBIT",6/20/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-29.96," ",,$29.96
+"POS DEBIT",6/19/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-183.72," ",,$183.72
+"DIRECT DEBIT",6/19/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6819",-23.46," ",,$23.46
+"DIRECT DEBIT",6/19/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-23.94," ",,$23.94
+DEBIT,6/18/18,Checking,"WF HOME MTG      AUTO PAY",-1424.77," ",,"$1,424.77"
+"POS DEBIT",6/18/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"DIRECT DEBIT",6/18/18,Checking,"CMC CAFETERIA     MANCHESTER   NH            6819",-16.20," ",,$16.20
+OTHER,6/15/18,Checking,,0.10," ",$0.10,
+"POS DEBIT",6/15/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"DIRECT DEBIT",6/15/18,Checking,"Audible           adbl.co/bill NJ            6819",-14.95," ",,$14.95
+"DIRECT DEBIT",6/15/18,Checking,"GOOGLE *PeakGames g.co/helppay#CA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",6/15/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-25.98," ",,$25.98
+"DIRECT DEPOSIT",6/15/18,Checking,"Citizens Bank    PAYROLL",309.66," ",$309.66,
+"DIRECT DEPOSIT",6/15/18,Checking,"ROBERT HALF INTE PAYROLL",1289.25," ","$1,289.25",
+"DIRECT DEBIT",6/14/18,Checking,"ATLANTIC INNOVATIO888-660-8970 NH            6819",-23.90," ",,$23.90
+"DIRECT DEBIT",6/14/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6801",-28.00," ",,$28.00
+"DIRECT DEBIT",6/14/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-10.99," ",,$10.99
+"DIRECT DEBIT",6/14/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6819",-37.70," ",,$37.70
+CHECK,6/13/18,Checking,,-295.00,134,,$295.00
+"DIRECT DEBIT",6/13/18,Checking,"DAIRY QUEEN - 1340MANCHESTER   NH            6801",-14.34," ",,$14.34
+"DIRECT DEBIT",6/13/18,Checking,"WASABI STEAK HOUSESALEM        NH            6819",-15.04," ",,$15.04
+"DIRECT DEBIT",6/13/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-13.71," ",,$13.71
+DEBIT,6/12/18,Checking,"FEDLOANSERVICING STDNT LOAN",-313.90," ",,$313.90
+"POS DEBIT",6/12/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6819",-149.77," ",,$149.77
+"DIRECT DEBIT",6/12/18,Checking,"Audible US        888-283-5051 NJ            6819",-14.69," ",,$14.69
+"POS DEBIT",6/12/18,Checking,"GOOGLE *PeakGa    Mountain ViewCA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",6/12/18,Checking,"VIKSTERS PIZZA    GOFFSTOWN    NH            6819",-22.17," ",,$22.17
+"DIRECT DEBIT",6/12/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-8.99," ",,$8.99
+"DIRECT DEBIT",6/12/18,Checking,"MADDIES           SALEM        NH            6819",-11.79," ",,$11.79
+"DIRECT DEBIT",6/12/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-29.99," ",,$29.99
+"DIRECT DEBIT",6/11/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-10.73," ",,$10.73
+"DIRECT DEBIT",6/11/18,Checking,"PIZZA 911- GOFFSTOGOFFSTOWN    NH            6819",-18.04," ",,$18.04
+"DIRECT DEBIT",6/11/18,Checking,"Amazon Services-Ki866-321-8851 WA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",6/11/18,Checking,"SQ *MANCHESTER CHRBEDFORD      NH            6801",-7.50," ",,$7.50
+"DIRECT DEBIT",6/11/18,Checking,"PUTNAMS WATERVIEW GOFFSTOWN    NH            6819",-43.31," ",,$43.31
+"DIRECT DEBIT",6/11/18,Checking,"CIRCLE K 07263    BEDFORD      NH            6819",-19.56," ",,$19.56
+"POS DEBIT",6/8/18,Checking,"CIRCLE K 07263    BEDFORD      NH            6819",-39.13," ",,$39.13
+DEBIT,6/8/18,Checking,"DDA DEBIT",-10.00,460028505,,$10.00
+"POS DEBIT",6/8/18,Checking,"GOOGLE *YouTub    Mountain ViewCA            6819",-35.00," ",,$35.00
+"DIRECT DEPOSIT",6/8/18,Checking,"Citizens Bank    PAYROLL",309.65," ",$309.65,
+"DIRECT DEPOSIT",6/8/18,Checking,"ROBERT HALF INTE PAYROLL",1312.41," ","$1,312.41",
+DEBIT,6/7/18,Checking,"COMCAST          CABLE",-85.95," ",,$85.95
+"POS DEBIT",6/7/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-31.24," ",,$31.24
+"DIRECT DEBIT",6/7/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-23.69," ",,$23.69
+"DIRECT DEBIT",6/7/18,Checking,"ACCELERATED AUTOMOGOFFSTOWN    NH            6819",-901.81," ",,$901.81
+DEBIT,6/6/18,Checking,"EVERSOURCE       WEB_PAY",-113.33," ",,$113.33
+"POS DEBIT",6/6/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-123.60," ",,$123.60
+"POS DEBIT",6/6/18,Checking,"GOOGLE *YouTube Re855-836-3987 CA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",6/6/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-3.36," ",,$3.36
+"DIRECT DEBIT",6/6/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"DIRECT DEBIT",6/6/18,Checking,"WALMART.COM 800966800-966-6546 AR            6801",-47.99," ",,$47.99
+"POS DEBIT",6/5/18,Checking,"GOOGLE *Playri    Mountain ViewCA            6801",-5.99," ",,$5.99
+"POS DEBIT",6/5/18,Checking,"GOOGLE *Playri    Mountain ViewCA            6801",-0.99," ",,$0.99
+"DIRECT DEBIT",6/5/18,Checking,"TST* UBON THAI 2 GMANCHESTER   NH            6801",-19.51," ",,$19.51
+"DIRECT DEBIT",6/5/18,Checking,"XXXPOSED INC      WINDHAM      NH            6819",-82.98," ",,$82.98
+"DIRECT DEBIT",6/5/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-5.10," ",,$5.10
+"DIRECT DEBIT",6/5/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-23.99," ",,$23.99
+"DIRECT DEBIT",6/5/18,Checking,"GILDAN USA        866-714-8486 SC            6819",-13.67," ",,$13.67
+FEE,6/4/18,Checking,"EXCHANGE FEE",-0.83," ",,$0.83
+DEBIT,6/4/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-76.00," ",,$76.00
+"POS DEBIT",6/4/18,Checking,"GOOGLE *Playri    Mountain ViewCA            6801",-0.99," ",,$0.99
+"DIRECT DEBIT",6/4/18,Checking,"SQ *MANCHESTER CHRBEDFORD      NH            6801",-7.75," ",,$7.75
+"DIRECT DEBIT",6/4/18,Checking,"PAYPAL *ALBION ONL35314369001                6819",-29.95," ",,$29.95
+"DIRECT DEBIT",6/4/18,Checking,"TARGET.COM  *     800-591-3869 MN            6801",-49.97," ",,$49.97
+"DIRECT DEBIT",6/4/18,Checking,"PIZZA 911- GOFFSTOGOFFSTOWN    NH            6819",-18.13," ",,$18.13
+"DIRECT DEBIT",6/4/18,Checking,"MADDIES           SALEM        NH            6819",-11.92," ",,$11.92
+"POS DEBIT",6/1/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-39.74," ",,$39.74
+"POS DEBIT",6/1/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-23.96," ",,$23.96
+DEBIT,6/1/18,Checking,"DDA DEBIT",-24.17,460038344,,$24.17
+"POS DEBIT",6/1/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+"DIRECT DEBIT",6/1/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6819",-72.74," ",,$72.74
+"DIRECT DEBIT",6/1/18,Checking,"GOODWILL AMHERST #AMHERST      NH            6801",-28.00," ",,$28.00
+"DIRECT DEBIT",6/1/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-39.42," ",,$39.42
+"DIRECT DEBIT",6/1/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-6.99," ",,$6.99
+"DIRECT DEBIT",6/1/18,Checking,"T-BONES OF BEDFORDBEDFORD      NH            6819",-62.45," ",,$62.45
+"DIRECT DEPOSIT",6/1/18,Checking,"Citizens Bank    PAYROLL",309.66," ",$309.66,
+DEBIT,5/31/18,Checking,"VERIZON WIRELESS PAYMENTS",-145.56," ",,$145.56
+"POS DEBIT",5/31/18,Checking,"CIRCLE K 07233    GOFFSTOWN    NH            6801",-41.55," ",,$41.55
+"DIRECT DEBIT",5/31/18,Checking,"BENUCK & RAINEY, I603-8685566  NH            6819",-251.61," ",,$251.61
+"DIRECT DEBIT",5/31/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-19.20," ",,$19.20
+"DIRECT DEBIT",5/31/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-9.99," ",,$9.99
+"DIRECT DEBIT",5/31/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.22," ",,$14.22
+DEBIT,5/30/18,Checking,"PROG NORTHERN    INS PREM",-86.51," ",,$86.51
+"POS DEBIT",5/30/18,Checking,"GOOGLE *PeakGa    Mountain ViewCA            6801",-1.99," ",,$1.99
+"DIRECT DEBIT",5/30/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-2.93," ",,$2.93
+"POS DEBIT",5/29/18,Checking,"DOLLAR TREE       MERRIMACK    NH            6801",-10.00," ",,$10.00
+"DIRECT DEBIT",5/29/18,Checking,"OUTBACK 2910      BEDFORD      NH            6819",-44.72," ",,$44.72
+"DIRECT DEBIT",5/29/18,Checking,"FANDANGO.COM      866-857-5191 CA            6801",-26.50," ",,$26.50
+"DIRECT DEBIT",5/29/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-7.70," ",,$7.70
+"DIRECT DEBIT",5/29/18,Checking,"SQ *MANCHESTER CHRBEDFORD      NH            6801",-7.75," ",,$7.75
+"DIRECT DEBIT",5/29/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-17.76," ",,$17.76
+"POS DEBIT",5/29/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-210.82," ",,$210.82
+"DIRECT DEBIT",5/29/18,Checking,"MCDONALD'S F7194  GOFFSTOWN    NH            6801",-10.01," ",,$10.01
+"DIRECT DEBIT",5/29/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-16.00," ",,$16.00
+"DIRECT DEBIT",5/29/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"DIRECT DEBIT",5/29/18,Checking,"CITY OF MANCHESTERMANCHESTER   NH            6819",-1.50," ",,$1.50
+"DIRECT DEBIT",5/29/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-8.99," ",,$8.99
+"DIRECT DEBIT",5/29/18,Checking,"Steamgames.com4259425-9522985  WA            6819",-14.99," ",,$14.99
+"POS DEBIT",5/25/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6819",-15.64," ",,$15.64
+"DIRECT DEBIT",5/25/18,Checking,"VISTAPR*VistaPrint866-8936743  MA            6801",-23.64," ",,$23.64
+"DIRECT DEBIT",5/25/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-17.94," ",,$17.94
+"DIRECT DEBIT",5/25/18,Checking,"VISTAPR*VistaPrint866-8936743  MA            6801",-21.99," ",,$21.99
+"DIRECT DEPOSIT",5/25/18,Checking,"Citizens Bank    PAYROLL",309.67," ",$309.67,
+DEBIT,5/24/18,Checking,"DDA DEBIT",-8.00,460049538,,$8.00
+"DIRECT DEBIT",5/24/18,Checking,"PIZZA 911- GOFFSTOGOFFSTOWN    NH            6819",-26.22," ",,$26.22
+"DIRECT DEBIT",5/24/18,Checking,"DUNKIN #330379 Q35BEDFORD      NH            6801",-7.61," ",,$7.61
+"DIRECT DEBIT",5/24/18,Checking,"CHIPOTLE 1799     BEDFORD      NH            6801",-8.89," ",,$8.89
+"DIRECT DEBIT",5/24/18,Checking,"BETTERHELP  *HI   8886889296   CA            6819",-180.00," ",,$180.00
+"DIRECT DEBIT",5/24/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-102.76," ",,$102.76
+"DIRECT DEPOSIT",5/24/18,Checking,"30636 SILVERTECH DIR DEP",4057.15," ","$4,057.15",
+"POS DEBIT",5/23/18,Checking,"GOOGLE *Duolin    Mountain ViewCA            6819",-9.99," ",,$9.99
+"DIRECT DEBIT",5/23/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6819",-15.36," ",,$15.36
+"DIRECT DEBIT",5/23/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6819",-14.09," ",,$14.09
+"DIRECT DEBIT",5/23/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-59.97," ",,$59.97
+"POS DEBIT",5/22/18,Checking,"DODGE'S COUNTR    NEW BOSTON   NH            6801",-37.68," ",,$37.68
+"DIRECT DEBIT",5/22/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-30.57," ",,$30.57
+"DIRECT DEBIT",5/22/18,Checking,"A&E COFFEE & TEA  GOFFSTOWN    NH            6801",-6.00," ",,$6.00
+"POS DEBIT",5/21/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6819",-37.70," ",,$37.70
+"POS DEBIT",5/21/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6819",-25.99," ",,$25.99
+"DIRECT DEBIT",5/21/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-19.98," ",,$19.98
+"POS DEBIT",5/21/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-92.61," ",,$92.61
+"DIRECT DEBIT",5/21/18,Checking,"RENU BODY SPA AND MERRIMACK    NH            6801",-100.00," ",,$100.00
+"DIRECT DEBIT",5/21/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-49.99," ",,$49.99
+"DIRECT DEBIT",5/21/18,Checking,"DINO21, LLC       HTTPSTEESHIRTDE            6801",-26.20," ",,$26.20
+"DIRECT DEBIT",5/21/18,Checking,"PUTNAMS WATERVIEW GOFFSTOWN    NH            6819",-52.84," ",,$52.84
+"DIRECT DEBIT",5/21/18,Checking,"WWW.CHICCOSHOP.COMCHICCOUSA.COMPA            6801",-21.00," ",,$21.00
+DEPOSIT,5/21/18,Checking,,50.00," ",$50.00,
+"POS DEBIT",5/18/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"DIRECT DEBIT",5/18/18,Checking,"TST* REPUBLIC CAFEMANCHESTER   NH            6819",-18.26," ",,$18.26
+"DIRECT DEPOSIT",5/18/18,Checking,"Citizens Bank    PAYROLL",309.66," ",$309.66,
+"DIRECT DEBIT",5/17/18,Checking,"CVS/PHARMACY #0074BEDFORD      NH            6819",-7.65," ",,$7.65
+"DIRECT DEBIT",5/17/18,Checking,"THE BRIDGE CAFE   MANCHESTER   NH            6819",-10.36," ",,$10.36
+"POS DEBIT",5/16/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-161.42," ",,$161.42
+"POS DEBIT",5/16/18,Checking,"CIRCLE K 07233    GOFFSTOWN    NH            6801",-37.61," ",,$37.61
+"DIRECT DEBIT",5/16/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.33," ",,$14.33
+"DIRECT DEBIT",5/16/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-15.70," ",,$15.70
+"DIRECT DEBIT",5/16/18,Checking,"TST* SAL S PIZZA  MANCHESTER   NH            6819",-6.96," ",,$6.96
+"DIRECT DEBIT",5/16/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-6.73," ",,$6.73
+OTHER,5/15/18,Checking,,0.03," ",$0.03,
+"DIRECT DEBIT",5/15/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-14.99," ",,$14.99
+"DIRECT DEBIT",5/15/18,Checking,"Audible           adbl.co/bill NJ            6819",-14.95," ",,$14.95
+"DIRECT DEBIT",5/15/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.27," ",,$7.27
+"POS DEBIT",5/14/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-9.01," ",,$9.01
+"POS DEBIT",5/14/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"POS DEBIT",5/14/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6819",-20.10," ",,$20.10
+"POS DEBIT",5/14/18,Checking,"HANNAFORD #831    MANCHESTER   NH 6819",-42.67," ",,$42.67
+"DIRECT DEBIT",5/14/18,Checking,"WENDYS            MANCHESTER   NH            6801",-10.34," ",,$10.34
+"POS DEBIT",5/14/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-103.63," ",,$103.63
+"DIRECT DEBIT",5/14/18,Checking,"CHINA GOURMET     GOFFSTOWN    NH            6801",-29.81," ",,$29.81
+"POS DEBIT",5/11/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-21.41," ",,$21.41
+"POS DEBIT",5/11/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-28.26," ",,$28.26
+"DIRECT DEBIT",5/11/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-14.80," ",,$14.80
+"DIRECT DEPOSIT",5/11/18,Checking,"Citizens Bank    PAYROLL",309.26," ",$309.26,
+"DIRECT DEBIT",5/10/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-69.92," ",,$69.92
+"DIRECT DEBIT",5/10/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-9.90," ",,$9.90
+"DIRECT DEBIT",5/10/18,Checking,"HAMPTON-METERS    CONCORD      NH            6801",-4.00," ",,$4.00
+"DIRECT DEBIT",5/10/18,Checking,"DUNKIN #304756 Q35MERRIMACK    NH            6801",-15.40," ",,$15.40
+"DIRECT DEPOSIT",5/10/18,Checking,"30636 SILVERTECH DIR DEP",2191.63," ","$2,191.63",
+CHECK,5/9/18,Checking,,-395.00,133,,$395.00
+"POS DEBIT",5/9/18,Checking,"WM SUPERCENTER    EPPING       NH            6801",-28.66," ",,$28.66
+"DIRECT DEBIT",5/9/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-20.20," ",,$20.20
+"DIRECT DEBIT",5/9/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6819",-54.56," ",,$54.56
+"POS DEBIT",5/8/18,Checking,"GOOGLE *YouTube TV855-836-3987 CA            6819",-35.00," ",,$35.00
+"POS DEBIT",5/8/18,Checking,"WALGREENS STORE 61MERRIMACK    NH            6801",-93.86," ",,$93.86
+FEE,5/7/18,Checking,"EXCHANGE FEE",-0.20," ",,$0.20
+DEBIT,5/7/18,Checking,"COMCAST          CABLE",-85.95," ",,$85.95
+"POS DEBIT",5/7/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-5.82," ",,$5.82
+DEBIT,5/7/18,Checking,"DDA DEBIT",-7.00,460030192,,$7.00
+"POS DEBIT",5/7/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-13.31," ",,$13.31
+"DIRECT DEBIT",5/7/18,Checking,"RENU BODY SPA & SAWWW.RENUSALONNH            6801",-45.00," ",,$45.00
+"POS DEBIT",5/7/18,Checking,"CIRCLE K 07263    BEDFORD      NH            6819",-36.70," ",,$36.70
+"POS DEBIT",5/7/18,Checking,"GOOGLE *YouTube Re855-836-3987 CA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",5/7/18,Checking,"SQ *MANCHESTER CHRBEDFORD      NH            6801",-7.25," ",,$7.25
+"DIRECT DEBIT",5/7/18,Checking,"LA CARRETA MEXICANMANCHESTER   NH            6801",-15.30," ",,$15.30
+"POS DEBIT",5/7/18,Checking,"CIRCLE K 07233    GOFFSTOWN    NH            6819",-34.82," ",,$34.82
+"POS DEBIT",5/7/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-8.57," ",,$8.57
+"POS DEBIT",5/7/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-70.30," ",,$70.30
+"DIRECT DEBIT",5/7/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"DIRECT DEBIT",5/7/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-22.87," ",,$22.87
+"DIRECT DEBIT",5/7/18,Checking,"GOG.COM           WARSAW                     6819",-7.23," ",,$7.23
+"DIRECT DEBIT",5/7/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6801",-19.99," ",,$19.99
+"DIRECT DEBIT",5/7/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-30.44," ",,$30.44
+"DIRECT DEBIT",5/4/18,Checking,"SARKU JAPAN 095   MANCHESTER   NH            6819",-9.79," ",,$9.79
+"POS DEBIT",5/4/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-14.96," ",,$14.96
+"DIRECT DEBIT",5/4/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-10.81," ",,$10.81
+"DIRECT DEPOSIT",5/4/18,Checking,"Citizens Bank    PAYROLL",309.65," ",$309.65,
+DEBIT,5/3/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-76.00," ",,$76.00
+"DIRECT DEBIT",5/3/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-5.70," ",,$5.70
+DEBIT,5/2/18,Checking,"VERIZON WIRELESS PAYMENTS",-145.56," ",,$145.56
+"DIRECT DEBIT",5/2/18,Checking,"5GUYS 1067 QSR    MANCHESTER   NH            6801",-6.86," ",,$6.86
+"DIRECT DEBIT",5/2/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-12.89," ",,$12.89
+DEBIT,5/1/18,Checking,"PROG NORTHERN    INS PREM",-86.47," ",,$86.47
+"POS DEBIT",5/1/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-150.50," ",,$150.50
+"POS DEBIT",5/1/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+"POS DEBIT",4/30/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-61.42," ",,$61.42
+DEBIT,4/30/18,Checking,"DDA DEBIT",-16.00,460037827,,$16.00
+"DIRECT DEBIT",4/30/18,Checking,"8ONE5             HUDSON       NH            6819",-17.98," ",,$17.98
+"DIRECT DEBIT",4/30/18,Checking,"MCGARVEY SALOON   MANCHESTER   NH            6819",-15.00," ",,$15.00
+"DIRECT DEBIT",4/30/18,Checking,"RADISSON HOTEL MANMANCHESTER   NH            6801",-18.52," ",,$18.52
+"DIRECT DEBIT",4/30/18,Checking,"RADISSON HOTEL MANMANCHESTER   NH            6801",-228.91," ",,$228.91
+"POS DEBIT",4/30/18,Checking,"HANNAFORD #843    Bedford      NH            6801",-21.94," ",,$21.94
+"POS DEBIT",4/30/18,Checking,"SHELL Service StatGOFFSTOWN    NH            6801",-39.96," ",,$39.96
+"POS DEBIT",4/27/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-7.58," ",,$7.58
+"POS DEBIT",4/27/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-13.56," ",,$13.56
+"DIRECT DEBIT",4/27/18,Checking,"ACCELERATED AUTOMOGOFFSTOWN    NH            6819",-151.35," ",,$151.35
+"DIRECT DEPOSIT",4/27/18,Checking,"Citizens Bank    PAYROLL",312.14," ",$312.14,
+"ATM CREDIT",4/27/18,Checking,"11 CHURCH STREET       GO   GOFFSTOWN     NH 6801",334.00," ",$334.00,
+FEE,4/26/18,Checking,"OVERDRAFT          ( 1 AT $35 )",-35.00," ",,$35.00
+"DIRECT DEPOSIT",4/26/18,Checking,"30636 SILVERTECH DIR DEP",2191.63," ","$2,191.63",
+CHECK,4/25/18,Checking,,-69.78,116,,$69.78
+"DIRECT DEBIT",4/25/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-6.90," ",,$6.90
+FEE,4/25/18,Checking,"OVERDRAFT          ( 1 AT $35 )",-35.00," ",,$35.00
+DEBIT,4/24/18,Checking,"WF HOME MTG      AUTO PAY",-1424.77," ",,"$1,424.77"
+"DIRECT DEPOSIT",4/24/18,Checking,"TAX PRODUCTS PE4 SBTPG LLC",304.03," ",$304.03,
+"POS DEBIT",4/23/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-52.21," ",,$52.21
+"POS DEBIT",4/23/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-3.67," ",,$3.67
+"POS DEBIT",4/23/18,Checking,"GOOGLE *Duolingo  855-836-3987 CA            6819",-9.99," ",,$9.99
+"DIRECT DEBIT",4/23/18,Checking,"ATLANTIC INNOVATIO888-660-8970 NH            6801",-37.90," ",,$37.90
+"DIRECT DEBIT",4/23/18,Checking,"ATLANTIC INNOVATIO888-660-8970 NH            6819",-31.90," ",,$31.90
+"POS DEBIT",4/23/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-75.76," ",,$75.76
+"DIRECT DEBIT",4/23/18,Checking,"SQ *MANCHESTER CHRBEDFORD      NH            6801",-7.75," ",,$7.75
+"DIRECT DEBIT",4/23/18,Checking,"MICROSOFT   *STORE800-642-7676 WA            6819",-119.99," ",,$119.99
+"DIRECT DEBIT",4/23/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-26.72," ",,$26.72
+"DIRECT DEBIT",4/23/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-53.39," ",,$53.39
+CREDIT,4/23/18,Checking,"MICROSOFT   *STORE800-642-7676 WA            6819",119.99," ",$119.99,
+DEBIT,4/20/18,Checking,"WF HOME MTG      AUTO PAY",-1456.84," ",,"$1,456.84"
+"DIRECT DEBIT",4/20/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.27," ",,$7.27
+"DIRECT DEPOSIT",4/20/18,Checking,"Citizens Bank    PAYROLL",304.20," ",$304.20,
+DEBIT,4/19/18,Checking,"EVERSOURCE       WEB_PAY",-117.89," ",,$117.89
+"POS DEBIT",4/19/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-7.84," ",,$7.84
+"POS DEBIT",4/19/18,Checking,"USPS PO 32324000 1GOFFSTOWN    NH            6801",-10.00," ",,$10.00
+"DIRECT DEBIT",4/19/18,Checking,"JULIENS CORNER KITMANCHESTER   NH            6819",-15.47," ",,$15.47
+"POS DEBIT",4/18/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-45.78," ",,$45.78
+"POS DEBIT",4/18/18,Checking,"WAL-MART #2246    BEDFORD      NH            6801",-123.53," ",,$123.53
+"POS DEBIT",4/18/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"DIRECT DEBIT",4/18/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-24.99," ",,$24.99
+"DIRECT DEBIT",4/18/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-17.73," ",,$17.73
+"DIRECT DEBIT",4/18/18,Checking,"IHOP #3328        BEDFORD      NH            6801",-39.74," ",,$39.74
+"DIRECT DEBIT",4/18/18,Checking,"AUTO AIR & VACUUM PLAINVIEW    NY            6801",-1.50," ",,$1.50
+TRANSFER,4/18/18,Checking,"FROM SAVINGS     3373239967",500.00," ",$500.00,
+"POS DEBIT",4/17/18,Checking,"Wal-Mart Super    MANCHESTER   NH            6801",-68.46," ",,$68.46
+"POS DEBIT",4/17/18,Checking,"OREILLY AUTO #4528BEDFORD      NH            6801",-40.98," ",,$40.98
+"DIRECT DEBIT",4/17/18,Checking,"372PEPSIVEN9147678MANCHESTER   NH            6819",-1.50," ",,$1.50
+"DIRECT DEBIT",4/17/18,Checking,"VIKSTERS PIZZA    GOFFSTOWN    NH            6801",-17.99," ",,$17.99
+"DIRECT DEBIT",4/17/18,Checking,"OUTBACK 2910      BEDFORD      NH            6819",-70.86," ",,$70.86
+OTHER,4/16/18,Checking,,0.06," ",$0.06,
+CHECK,4/16/18,Checking,,-665.10,117,,$665.10
+"POS DEBIT",4/16/18,Checking,"HANNAFORD #843    Bedford      NH            6819",-23.33," ",,$23.33
+"DIRECT DEBIT",4/16/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6819",-5.79," ",,$5.79
+"POS DEBIT",4/16/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"DIRECT DEBIT",4/16/18,Checking,"Audible           adbl.co/bill NJ            6819",-14.95," ",,$14.95
+"DIRECT DEBIT",4/16/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-29.04," ",,$29.04
+"DIRECT DEBIT",4/16/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.49," ",,$7.49
+"DIRECT DEBIT",4/16/18,Checking,"BAKED DOWNTOWN CAFMANCHESTER   NH            6819",-9.27," ",,$9.27
+"DIRECT DEBIT",4/16/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-4.96," ",,$4.96
+"POS DEBIT",4/13/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-11.83," ",,$11.83
+"DIRECT DEBIT",4/13/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.27," ",,$7.27
+"DIRECT DEBIT",4/13/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-24.97," ",,$24.97
+"DIRECT DEBIT",4/13/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-4.84," ",,$4.84
+"DIRECT DEPOSIT",4/13/18,Checking,"Citizens Bank    PAYROLL",309.66," ",$309.66,
+"POS DEBIT",4/12/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-16.61," ",,$16.61
+"POS DEBIT",4/12/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-33.29," ",,$33.29
+"POS DEBIT",4/12/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-10.47," ",,$10.47
+"DIRECT DEBIT",4/12/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-11.97," ",,$11.97
+"DIRECT DEBIT",4/12/18,Checking,"THE BRIDGE CAFE   MANCHESTER   NH            6819",-10.36," ",,$10.36
+"DIRECT DEBIT",4/12/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-15.81," ",,$15.81
+"DIRECT DEPOSIT",4/12/18,Checking,"30636 SILVERTECH DIR DEP",2191.63," ","$2,191.63",
+"DIRECT DEBIT",4/11/18,Checking,"ATLANTIC INNOVATIO888-660-8970 NH            6819",-26.90," ",,$26.90
+"DIRECT DEBIT",4/11/18,Checking,"PIZZA MARKET OF GO603-623-0899 NH            6801",-20.22," ",,$20.22
+"DIRECT DEBIT",4/11/18,Checking,"BRADY SULLIVAN PLAMANCHESTER   NH            6801",-2.00," ",,$2.00
+"DIRECT DEBIT",4/11/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-14.99," ",,$14.99
+"DIRECT DEBIT",4/11/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-6.00," ",,$6.00
+"DIRECT DEBIT",4/11/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-4.12," ",,$4.12
+"POS DEBIT",4/10/18,Checking,"HOBBYLOBBY 1525 S.MANCHESTER   NH            6801",-118.03," ",,$118.03
+"POS DEBIT",4/10/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-4.66," ",,$4.66
+"DIRECT DEBIT",4/10/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6819",-8.77," ",,$8.77
+"DIRECT DEBIT",4/10/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-17.99," ",,$17.99
+"DIRECT DEBIT",4/10/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-10.00," ",,$10.00
+DEBIT,4/9/18,Checking,"COMCAST          CABLE",-85.95," ",,$85.95
+DEBIT,4/9/18,Checking,"EVERSOURCE       WEB_PAY",-158.22," ",,$158.22
+DEBIT,4/9/18,Checking,"WF HOME MTG      AUTO PAY",-1424.77," ",,"$1,424.77"
+"POS DEBIT",4/9/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-7.68," ",,$7.68
+"POS DEBIT",4/9/18,Checking,"GOOGLE *YouTube TV855-836-3987 CA            6819",-35.00," ",,$35.00
+"POS DEBIT",4/9/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-57.38," ",,$57.38
+"POS DEBIT",4/9/18,Checking,"SHELL Service StatGOFFSTOWN    NH            6801",-34.74," ",,$34.74
+"DIRECT DEBIT",4/9/18,Checking,"NEW WA TOY        MANCHESTER   NH            6801",-39.89," ",,$39.89
+"DIRECT DEBIT",4/9/18,Checking,"TST* CAESARIO S PIMANCHESTER   NH            6819",-5.83," ",,$5.83
+"DIRECT DEBIT",4/9/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-4.84," ",,$4.84
+"DIRECT DEBIT",4/9/18,Checking,"875 ELM ST GARAGE MANCHESTER   NH            6819",-7.00," ",,$7.00
+"DIRECT DEBIT",4/9/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-5.03," ",,$5.03
+DEBIT,4/6/18,Checking,"CAPITAL ONE      ONLINE PMT",-134.57," ",,$134.57
+"POS DEBIT",4/6/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-16.08," ",,$16.08
+"POS DEBIT",4/6/18,Checking,"GOOGLE *YouTub    Mountain ViewCA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",4/6/18,Checking,"VISTAPR*VistaPrint866-8936743  MA 6819",-84.14," ",,$84.14
+"DIRECT DEBIT",4/6/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-30.14," ",,$30.14
+"DIRECT DEBIT",4/6/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"DIRECT DEPOSIT",4/6/18,Checking,"Citizens Bank    PAYROLL",331.96," ",$331.96,
+"POS DEBIT",4/5/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-8.27," ",,$8.27
+"DIRECT DEBIT",4/5/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-19.99," ",,$19.99
+"DIRECT DEBIT",4/5/18,Checking,"TACO BELL #029272 CONCORD      NH            6801",-11.65," ",,$11.65
+"DIRECT DEBIT",4/5/18,Checking,"JOE KINGS SHOE SHOCONCORD      NH            6801",-36.95," ",,$36.95
+"DIRECT DEBIT",4/5/18,Checking,"CITY OF CONCORD PACONCORD      NH            6801",-1.50," ",,$1.50
+"DIRECT DEBIT",4/5/18,Checking,"TACO BELL #029272 CONCORD      NH            6801",-11.65," ",,$11.65
+"DIRECT DEBIT",4/4/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6819",-39.98," ",,$39.98
+"DIRECT DEBIT",4/4/18,Checking,"DUNKIN #310276 Q35MILFORD      NH            6801",-5.10," ",,$5.10
+"DIRECT DEBIT",4/4/18,Checking,"CHIPOTLE 1799     BEDFORD      NH            6801",-10.14," ",,$10.14
+"DIRECT DEBIT",4/4/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-7.36," ",,$7.36
+"DIRECT DEBIT",4/4/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-5.70," ",,$5.70
+DEBIT,4/3/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-76.00," ",,$76.00
+"POS DEBIT",4/3/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-187.69," ",,$187.69
+"POS DEBIT",4/2/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-8.06," ",,$8.06
+"POS DEBIT",4/2/18,Checking,"RITE AID STORE - 4MANCHESTER   NH            6819",-69.39," ",,$69.39
+DEBIT,4/2/18,Checking,"DDA DEBIT",-14.00,460028904,,$14.00
+"POS DEBIT",4/2/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+"DIRECT DEBIT",4/2/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"DIRECT DEBIT",4/2/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"POS DEBIT",4/2/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-78.59," ",,$78.59
+"DIRECT DEBIT",4/2/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.92," ",,$7.92
+"DIRECT DEBIT",4/2/18,Checking,"THE GYRO SPOT     MANCHESTER   NH            6819",-9.09," ",,$9.09
+"DIRECT DEBIT",4/2/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-5.48," ",,$5.48
+DEBIT,3/30/18,Checking,"PROG NORTHERN    INS PREM",-89.68," ",,$89.68
+DEBIT,3/30/18,Checking,"VERIZON WIRELESS PAYMENTS",-145.62," ",,$145.62
+"POS DEBIT",3/30/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6801",-5.67," ",,$5.67
+"POS DEBIT",3/30/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6801",-35.74," ",,$35.74
+"DIRECT DEBIT",3/30/18,Checking,"JULIENS CORNER KITMANCHESTER   NH            6819",-15.97," ",,$15.97
+"POS DEBIT",3/30/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-9.57," ",,$9.57
+"DIRECT DEBIT",3/30/18,Checking,"A&E COFFEE & TEA MMANCHESTER   NH            6819",-5.48," ",,$5.48
+"DIRECT DEPOSIT",3/30/18,Checking,"CITIZENS BANK, N DIR DEP",309.95," ",$309.95,
+"POS DEBIT",3/29/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-29.77," ",,$29.77
+"DIRECT DEBIT",3/29/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"DIRECT DEBIT",3/29/18,Checking,"MCDONALD'S F2039  NASHUA       NH            6801",-8.23," ",,$8.23
+"DIRECT DEBIT",3/29/18,Checking,"TST* CAESARIO S PIMANCHESTER   NH            6819",-4.90," ",,$4.90
+"DIRECT DEPOSIT",3/29/18,Checking,"30636 SILVERTECH DIR DEP",2251.89," ","$2,251.89",
+"DIRECT DEBIT",3/28/18,Checking,"COLDSTONE #2126   MANCHESTER   NH            6801",-13.92," ",,$13.92
+"POS DEBIT",3/27/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-50.25," ",,$50.25
+"POS DEBIT",3/27/18,Checking,"OFF BROADWAY SHOESMANCHESTER   NH            6801",-46.98," ",,$46.98
+"DIRECT DEBIT",3/27/18,Checking,"NEW WA TOY        MANCHESTER   NH            6819",-15.96," ",,$15.96
+"DIRECT DEPOSIT",3/27/18,Checking,"CTZN-AP          MRL-032718",10.00," ",$10.00,
+"POS DEBIT",3/26/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-43.82," ",,$43.82
+"POS DEBIT",3/26/18,Checking,"SHELL Service StatMANCHESTER   NH            6819",-34.86," ",,$34.86
+"POS DEBIT",3/26/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-11.95," ",,$11.95
+"POS DEBIT",3/26/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6819",-42.98," ",,$42.98
+"POS DEBIT",3/26/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-32.47," ",,$32.47
+"DIRECT DEBIT",3/26/18,Checking,"CENTER OF NEW HAMPMANCHESTER   NH            6801",-10.00," ",,$10.00
+"DIRECT DEBIT",3/26/18,Checking,"DUNKIN #357416    MANCHESTER   NH            6801",-5.97," ",,$5.97
+"DIRECT DEBIT",3/26/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-21.48," ",,$21.48
+"DIRECT DEBIT",3/26/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"DIRECT DEBIT",3/26/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"DIRECT DEBIT",3/26/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-8.57," ",,$8.57
+"POS DEBIT",3/23/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-13.00," ",,$13.00
+"POS DEBIT",3/23/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-9.62," ",,$9.62
+"DIRECT DEPOSIT",3/23/18,Checking,"CITIZENS BANK, N DIR DEP",307.48," ",$307.48,
+"POS DEBIT",3/22/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-27.53," ",,$27.53
+"POS DEBIT",3/22/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-10.93," ",,$10.93
+"DIRECT DEBIT",3/22/18,Checking,"PUTNAMS WATERVIEW GOFFSTOWN    NH            6819",-46.93," ",,$46.93
+"DIRECT DEBIT",3/22/18,Checking,"SQ *NATURE'S NECTANASHUA       NH            6801",-10.74," ",,$10.74
+"DIRECT DEBIT",3/22/18,Checking,"THE BRIDGE CAFE   MANCHESTER   NH            6819",-10.36," ",,$10.36
+"DIRECT DEBIT",3/22/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-11.63," ",,$11.63
+"DIRECT DEBIT",3/22/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-21.83," ",,$21.83
+DEBIT,3/21/18,Checking,"WF HOME MTG      AUTO PAY",-1488.91," ",,"$1,488.91"
+"POS DEBIT",3/21/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-118.07," ",,$118.07
+"POS DEBIT",3/21/18,Checking,"SEARS ROEBUCK     MANCHESTER   NH            6801",-24.99," ",,$24.99
+"DIRECT DEBIT",3/21/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-25.95," ",,$25.95
+"POS DEBIT",3/20/18,Checking,"7-ELEVEN          MERRIMACK    NH            6801",-34.47," ",,$34.47
+"POS DEBIT",3/20/18,Checking,"TARGET T-2009     Bedford      NH            6801",-93.95," ",,$93.95
+"POS DEBIT",3/19/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-10.07," ",,$10.07
+"POS DEBIT",3/19/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-24.54," ",,$24.54
+"DIRECT DEBIT",3/19/18,Checking,"ASIAN BREEZE      HOOKSETT     NH            6819",-39.85," ",,$39.85
+"POS DEBIT",3/19/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"DIRECT DEBIT",3/19/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-49.56," ",,$49.56
+"DIRECT DEBIT",3/19/18,Checking,"GOOGLE *Domains   g.co/helppay#CA            6819",-12.00," ",,$12.00
+"DIRECT DEBIT",3/19/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-9.55," ",,$9.55
+"DIRECT DEBIT",3/16/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-5.38," ",,$5.38
+"DIRECT DEBIT",3/16/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"DIRECT DEPOSIT",3/16/18,Checking,"CITIZENS BANK, N DIR DEP",307.49," ",$307.49,
+OTHER,3/15/18,Checking,,0.03," ",$0.03,
+"POS DEBIT",3/15/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-11.65," ",,$11.65
+"POS DEBIT",3/15/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"POS DEBIT",3/15/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-95.03," ",,$95.03
+"DIRECT DEBIT",3/15/18,Checking,"Audible           adbl.co/bill NJ            6819",-14.95," ",,$14.95
+"DIRECT DEPOSIT",3/15/18,Checking,"30636 SILVERTECH DIR DEP",2191.63," ","$2,191.63",
+"POS DEBIT",3/12/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-55.56," ",,$55.56
+"POS DEBIT",3/12/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-9.64," ",,$9.64
+"DIRECT DEBIT",3/12/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-28.99," ",,$28.99
+"POS DEBIT",3/12/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-93.58," ",,$93.58
+"DIRECT DEBIT",3/12/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+CHECK,3/9/18,Checking,,-150.00,115,,$150.00
+TRANSFER,3/9/18,Checking,"TO SAVINGS       3373239967",-500.00," ",,$500.00
+"DIRECT DEPOSIT",3/9/18,Checking,"CITIZENS BANK, N DIR DEP",305.02," ",$305.02,
+"ATM DEBIT",3/8/18,Checking,"11 CHURCH STREET  GOFFSTOWN    NH            6801",-100.00," ",,$100.00
+"POS DEBIT",3/8/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6819",-58.92," ",,$58.92
+"POS DEBIT",3/8/18,Checking,"GOOGLE *YouTube TV855-836-3987 CA            6819",-35.00," ",,$35.00
+DEBIT,3/7/18,Checking,"COMCAST          CABLE",-85.95," ",,$85.95
+"DIRECT DEBIT",3/7/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"POS DEBIT",3/6/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-149.18," ",,$149.18
+"POS DEBIT",3/6/18,Checking,"GOOGLE *YouTube Re855-836-3987 CA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",3/6/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-36.87," ",,$36.87
+"DIRECT DEBIT",3/6/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-17.06," ",,$17.06
+DEBIT,3/5/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-76.00," ",,$76.00
+DEBIT,3/5/18,Checking,"EVERSOURCE       WEB_PAY",-546.91," ",,$546.91
+DEBIT,3/5/18,Checking,"EVERSOURCE       WEB_PAY",-546.91," ",,$546.91
+DEBIT,3/5/18,Checking,"EVERSOURCE       WEB_PAY",-546.91," ",,$546.91
+"POS DEBIT",3/5/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-6.84," ",,$6.84
+"POS DEBIT",3/5/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-26.40," ",,$26.40
+"POS DEBIT",3/5/18,Checking,"BI-WISE / SULL    ALLENSTOWN   NH            6801",-68.34," ",,$68.34
+"DIRECT DEBIT",3/5/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-17.71," ",,$17.71
+"DIRECT DEBIT",3/5/18,Checking,"CENTER OF NEW HAMPMANCHESTER   NH            6801",-6.00," ",,$6.00
+"DIRECT DEBIT",3/5/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6801",-27.22," ",,$27.22
+"DIRECT DEBIT",3/5/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.92," ",,$7.92
+"DIRECT DEPOSIT",3/5/18,Checking,"EVERSOURCE       REVERSAL",546.91," ",$546.91,
+"DIRECT DEPOSIT",3/5/18,Checking,"EVERSOURCE       REVERSAL",546.91," ",$546.91,
+DEBIT,3/2/18,Checking,"PROG NORTHERN    INS PREM",-89.76," ",,$89.76
+DEBIT,3/2/18,Checking,"VERIZON WIRELESS PAYMENTS",-138.62," ",,$138.62
+"POS DEBIT",3/2/18,Checking,"THE GRANITE YMCA  603-2328619  NH            6801",-68.00," ",,$68.00
+"DIRECT DEBIT",3/2/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"DIRECT DEBIT",3/2/18,Checking,"NEW YUKI JAPANESE MANCHESTER   NH            6819",-15.94," ",,$15.94
+"DIRECT DEBIT",3/2/18,Checking,"CITY OF MANCHESTERMANCHESTER   NH            6801",-1.00," ",,$1.00
+"DIRECT DEBIT",3/2/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-21.98," ",,$21.98
+"DIRECT DEPOSIT",3/2/18,Checking,"CITIZENS BANK, N DIR DEP",309.96," ",$309.96,
+"POS DEBIT",3/1/18,Checking,"Wal-Mart Super    MANCHESTER   NH            6801",-191.09," ",,$191.09
+"POS DEBIT",3/1/18,Checking,"BURLINGTON STORES MANCHESTER   NH            6801",-28.97," ",,$28.97
+"POS DEBIT",3/1/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+"DIRECT DEBIT",3/1/18,Checking,"AUTO AIR & VACUUM PLAINVIEW    NY            6801",-1.50," ",,$1.50
+"DIRECT DEBIT",3/1/18,Checking,"NEW YUKI JAPANESE MANCHESTER   NH            6819",-17.21," ",,$17.21
+"DIRECT DEBIT",3/1/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-11.98," ",,$11.98
+"DIRECT DEPOSIT",3/1/18,Checking,"30636 SILVERTECH DIR DEP",2191.63," ","$2,191.63",
+"POS DEBIT",2/28/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-12.37," ",,$12.37
+"DIRECT DEBIT",2/28/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-27.94," ",,$27.94
+"DIRECT DEBIT",2/28/18,Checking,"MCDONALD'S F7194  GOFFSTOWN    NH            6801",-12.08," ",,$12.08
+"DIRECT DEBIT",2/28/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6819",-156.78," ",,$156.78
+"POS DEBIT",2/27/18,Checking,"SHELL Service StatGOFFSTOWN    NH            6801",-35.55," ",,$35.55
+"POS DEBIT",2/27/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6819",-27.53," ",,$27.53
+"POS DEBIT",2/27/18,Checking,"THE HOME DEPOT #34MANCHESTER   NH            6819",-97.76," ",,$97.76
+"POS DEBIT",2/27/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-7.90," ",,$7.90
+"POS DEBIT",2/27/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-10.39," ",,$10.39
+"DIRECT DEBIT",2/27/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.27," ",,$7.27
+"POS DEBIT",2/26/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-17.25," ",,$17.25
+"POS DEBIT",2/26/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-9.06," ",,$9.06
+"DIRECT DEBIT",2/26/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-20.29," ",,$20.29
+"DIRECT DEBIT",2/26/18,Checking,"GOOGLE *Jam City  g.co/helppay#CA            6801",-0.99," ",,$0.99
+"POS DEBIT",2/26/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-54.10," ",,$54.10
+"DIRECT DEBIT",2/26/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-17.71," ",,$17.71
+"POS DEBIT",2/23/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-22.57," ",,$22.57
+"DIRECT DEBIT",2/23/18,Checking,"LAKORN THAI RESTAUMANCHESTER   NH            6801",-35.85," ",,$35.85
+"DIRECT DEBIT",2/23/18,Checking,"SUBWAY        0033MANCHESTER   NH            6801",-9.42," ",,$9.42
+"DIRECT DEBIT",2/23/18,Checking,"CITY OF MANCHESTERMANCHESTER   NH            6801",-0.25," ",,$0.25
+"DIRECT DEBIT",2/23/18,Checking,"DUNKIN #335825 Q35MANCHESTER   NH            6801",-6.73," ",,$6.73
+"DIRECT DEBIT",2/23/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6819",-14.99," ",,$14.99
+"DIRECT DEPOSIT",2/23/18,Checking,"CITIZENS BANK, N DIR DEP",419.96," ",$419.96,
+"POS DEBIT",2/22/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-3.86," ",,$3.86
+"DIRECT DEBIT",2/22/18,Checking,"PANERA BREAD #2034BEDFORD      NH            6801",-24.81," ",,$24.81
+"POS DEBIT",2/21/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-12.99," ",,$12.99
+"DIRECT DEBIT",2/21/18,Checking,"STAPLES       0010BEDFORD      NH            6801",-32.57," ",,$32.57
+"DIRECT DEBIT",2/21/18,Checking,"STAPLES       0010BEDFORD      NH            6801",-0.88," ",,$0.88
+"DIRECT DEBIT",2/21/18,Checking,"COWABUNGA`S       MANCHESTER   NH            6801",-12.00," ",,$12.00
+FEE,2/20/18,Checking,"EXCHANGE FEE",-0.41," ",,$0.41
+"POS DEBIT",2/20/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-8.16," ",,$8.16
+"DIRECT DEBIT",2/20/18,Checking,"GOOGLE *YouTube Vig.co/helppay#CA            6801",-4.99," ",,$4.99
+"POS DEBIT",2/20/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6801",-92.33," ",,$92.33
+"DIRECT DEBIT",2/20/18,Checking,"DUNKIN #306010 Q35GOFFSTOWN    NH            6801",-2.06," ",,$2.06
+"DIRECT DEBIT",2/20/18,Checking,"DUNKIN #306010 Q35GOFFSTOWN    NH            6801",-7.27," ",,$7.27
+"DIRECT DEBIT",2/20/18,Checking,"TAJ INDIA         MANCHESTER   NH            6819",-16.94," ",,$16.94
+"DIRECT DEBIT",2/20/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-27.41," ",,$27.41
+"POS DEBIT",2/20/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"DIRECT DEBIT",2/20/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-17.71," ",,$17.71
+"POS DEBIT",2/20/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-5.64," ",,$5.64
+"DIRECT DEBIT",2/20/18,Checking,"NEW YUKI JAPANESE MANCHESTER   NH            6819",-83.54," ",,$83.54
+"DIRECT DEBIT",2/20/18,Checking,"THE BRIDGE CAFE   MANCHESTER   NH            6819",-10.36," ",,$10.36
+"DIRECT DEBIT",2/20/18,Checking,"CCP GAMES ORDERID:9                          6819",-14.95," ",,$14.95
+DEBIT,2/16/18,Checking,"CAPITAL ONE      ONLINE PMT",-5249.26," ",,"$5,249.26"
+"POS DEBIT",2/16/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-4.88," ",,$4.88
+"POS DEBIT",2/16/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-5.99," ",,$5.99
+"POS DEBIT",2/16/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-32.99," ",,$32.99
+"POS DEBIT",2/16/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-7.04," ",,$7.04
+"DIRECT DEBIT",2/16/18,Checking,"USBORNE BOOKS & MO800-475-4522 OK            6801",-39.97," ",,$39.97
+"DIRECT DEBIT",2/16/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.44," ",,$7.44
+"DIRECT DEBIT",2/16/18,Checking,"DISCORD           HTTPSDISCORDACA            6819",-49.99," ",,$49.99
+"DIRECT DEPOSIT",2/16/18,Checking,"CITIZENS BANK, N DIR DEP",307.49," ",$307.49,
+OTHER,2/15/18,Checking,,0.10," ",$0.10,
+FEE,2/15/18,Checking,"EXCHANGE FEE",-0.83," ",,$0.83
+"POS DEBIT",2/15/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-10.09," ",,$10.09
+"DIRECT DEBIT",2/15/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-14.80," ",,$14.80
+"POS DEBIT",2/15/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"DIRECT DEBIT",2/15/18,Checking,"Albion Online     Berlin                     6819",-29.95," ",,$29.95
+TRANSFER,2/15/18,Checking,"FROM SAVINGS     3373239967",1000.15," ","$1,000.15",
+"DIRECT DEPOSIT",2/15/18,Checking,"30636 SILVERTECH DIR DEP",2191.63," ","$2,191.63",
+"DIRECT DEBIT",2/14/18,Checking,"Audible           adbl.co/bill NJ            6819",-14.95," ",,$14.95
+"DIRECT DEBIT",2/14/18,Checking,"THE BRO BASKET    https://www.tCA            6801",-65.31," ",,$65.31
+"DIRECT DEBIT",2/14/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-98.99," ",,$98.99
+"POS DEBIT",2/13/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-148.72," ",,$148.72
+"DIRECT DEBIT",2/13/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-18.75," ",,$18.75
+"ATM DEBIT",2/12/18,Checking,"11 CHURCH STREET  GOFFSTOWN    NH            6801",-20.00," ",,$20.00
+"DIRECT DEBIT",2/12/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6801",-40.38," ",,$40.38
+"POS DEBIT",2/12/18,Checking,"MARKET BASKET 71  BEDFORD      NH            6819",-143.91," ",,$143.91
+"DIRECT DEBIT",2/12/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-13.76," ",,$13.76
+"DIRECT DEBIT",2/12/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"DIRECT DEBIT",2/12/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-39.99," ",,$39.99
+CHECK,2/9/18,Checking,,-121.00,113,,$121.00
+"POS DEBIT",2/9/18,Checking,"STAPLES 1189      MANCHESTER   NH            6819",-155.86," ",,$155.86
+"DIRECT DEBIT",2/9/18,Checking,"CVS/PHARMACY #0074BEDFORD      NH            6801",-42.65," ",,$42.65
+"DIRECT DEBIT",2/9/18,Checking,"CMC URGENT CARE   BEDFORD      NH            6801",-25.00," ",,$25.00
+"DIRECT DEPOSIT",2/9/18,Checking,"CITIZENS BANK, N DIR DEP",307.51," ",$307.51,
+"POS DEBIT",2/8/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-27.51," ",,$27.51
+"POS DEBIT",2/8/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-5.98," ",,$5.98
+"POS DEBIT",2/8/18,Checking,"CVS/PHARMACY #    BEDFORD      NH            6801",-75.72," ",,$75.72
+"POS DEBIT",2/8/18,Checking,"GOOGLE *YouTube TV855-836-3987 CA            6819",-35.00," ",,$35.00
+DEBIT,2/7/18,Checking,"COMCAST          CABLE",-85.95," ",,$85.95
+"DIRECT DEBIT",2/7/18,Checking,"MASTER WOK        MANCHESTER   NH            6801",-9.96," ",,$9.96
+"DIRECT DEBIT",2/7/18,Checking,"SQ *NATURE'S NECTABEDFORD      NH            6801",-10.29," ",,$10.29
+"POS DEBIT",2/6/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6801",-20.80," ",,$20.80
+"POS DEBIT",2/6/18,Checking,"OLD NAVY US 3795  MANCHESTER   NH            6801",-86.95," ",,$86.95
+"POS DEBIT",2/6/18,Checking,"GOOGLE *YouTube Re855-836-3987 CA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",2/6/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-10.92," ",,$10.92
+"DIRECT DEBIT",2/6/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"DIRECT DEBIT",2/6/18,Checking,"SUPERSUDS GOFFSTOWGOFFSTOWN    NH            6819",-11.00," ",,$11.00
+DEBIT,2/5/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-76.00," ",,$76.00
+"POS DEBIT",2/5/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-8.95," ",,$8.95
+"POS DEBIT",2/5/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-52.00," ",,$52.00
+"DIRECT DEBIT",2/5/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-51.97," ",,$51.97
+"DIRECT DEBIT",2/5/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"POS DEBIT",2/5/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-113.88," ",,$113.88
+"DIRECT DEBIT",2/5/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-124.99," ",,$124.99
+"ATM DEBIT",2/2/18,Checking,"11 CHURCH STREET  GOFFSTOWN    NH            6801",-100.00," ",,$100.00
+"DIRECT DEBIT",2/2/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.27," ",,$7.27
+"DIRECT DEPOSIT",2/2/18,Checking,"CITIZENS BANK, N DIR DEP",305.02," ",$305.02,
+"POS DEBIT",2/1/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-17.38," ",,$17.38
+"POS DEBIT",2/1/18,Checking,"MAST ROAD GRAI    MANCHESTER   NH            6819",-19.80," ",,$19.80
+"POS DEBIT",2/1/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-8.80," ",,$8.80
+"POS DEBIT",2/1/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+"POS DEBIT",2/1/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6801",-4.47," ",,$4.47
+"DIRECT DEBIT",2/1/18,Checking,"CHIPOTLE 1473     MANCHESTER   NH            6801",-17.77," ",,$17.77
+"DIRECT DEBIT",2/1/18,Checking,"DUNKIN #302949 Q35MANCHESTER   NH            6801",-4.76," ",,$4.76
+"DIRECT DEBIT",2/1/18,Checking,"CHIPOTLE 1473     MANCHESTER   NH            6819",-7.80," ",,$7.80
+"DIRECT DEPOSIT",2/1/18,Checking,"30636 SILVERTECH DIR DEP",2191.63," ","$2,191.63",
+DEBIT,1/31/18,Checking,"VERIZON WIRELESS PAYMENTS",-138.62," ",,$138.62
+"POS DEBIT",1/31/18,Checking,"PETSMART # 186    MANCHESTER   NH            6801",-41.99," ",,$41.99
+"POS DEBIT",1/31/18,Checking,"Z1 XPRESS - GOFFSTGOFFSTOWN    NH            6819",-21.20," ",,$21.20
+"POS DEBIT",1/31/18,Checking,"Wal-Mart Super    MANCHESTER   NH            6801",-137.19," ",,$137.19
+"POS DEBIT",1/31/18,Checking,"PARTY CITY #6042 9Manchester   NH            6801",-15.98," ",,$15.98
+"DIRECT DEBIT",1/31/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6819",-124.99," ",,$124.99
+"DIRECT DEBIT",1/31/18,Checking,"DUNKIN #330379 Q35BEDFORD      NH            6801",-2.71," ",,$2.71
+"DIRECT DEBIT",1/31/18,Checking,"THE BRIDGE CAFE   MANCHESTER   NH            6819",-14.17," ",,$14.17
+"DIRECT DEBIT",1/31/18,Checking,"DUNKIN #351257 Q35MANCHESTER   NH            6801",-6.52," ",,$6.52
+"DIRECT DEBIT",1/31/18,Checking,"CITY OF MANCHESTERMANCHESTER   NH            6801",-1.50," ",,$1.50
+DEBIT,1/30/18,Checking,"PROG NORTHERN    INS PREM",-89.76," ",,$89.76
+"DIRECT DEBIT",1/30/18,Checking,"DUNKIN #337152 Q35GOFFSTOWN    NH            6801",-7.44," ",,$7.44
+"DIRECT DEBIT",1/30/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-10.89," ",,$10.89
+"DIRECT DEBIT",1/30/18,Checking,"LILAC BLOSSOM RESTNASHUA       NH            6819",-67.64," ",,$67.64
+DEBIT,1/29/18,Checking,"FEDLOANSERVICING STDNT LOAN",-62.78," ",,$62.78
+"POS DEBIT",1/29/18,Checking,"HANNAFORD #831    MANCHESTER   NH            6819",-19.63," ",,$19.63
+"POS DEBIT",1/29/18,Checking,"SHELL Service StatGOFFSTOWN    NH            6801",-34.88," ",,$34.88
+"POS DEBIT",1/29/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-18.86," ",,$18.86
+"DIRECT DEBIT",1/29/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"POS DEBIT",1/29/18,Checking,"Wal-Mart Super    AMHERST      NH            6819",-12.29," ",,$12.29
+"DIRECT DEBIT",1/29/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-14.87," ",,$14.87
+"POS DEBIT",1/29/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6819",-34.13," ",,$34.13
+"POS DEBIT",1/29/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6819",-7.08," ",,$7.08
+"DIRECT DEBIT",1/29/18,Checking,"GOFFSTOWN ACE HARDGOFFSTOWN    NH            6819",-19.99," ",,$19.99
+"DIRECT DEBIT",1/29/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-7.18," ",,$7.18
+"DIRECT DEBIT",1/29/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-51.48," ",,$51.48
+"DIRECT DEBIT",1/29/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-11.99," ",,$11.99
+"DIRECT DEBIT",1/29/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-26.83," ",,$26.83
+"DIRECT DEBIT",1/29/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6801",-15.10," ",,$15.10
+"DIRECT DEBIT",1/29/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-20.29," ",,$20.29
+"DIRECT DEBIT",1/29/18,Checking,"MAST ROAD GRAIN & MANCHESTER   NH            6819",-59.00," ",,$59.00
+"DIRECT DEBIT",1/29/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6819",-23.79," ",,$23.79
+"POS DEBIT",1/26/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-11.08," ",,$11.08
+"DIRECT DEBIT",1/26/18,Checking,"THE BRIDGE CAFE   MANCHESTER   NH            6819",-15.26," ",,$15.26
+"DIRECT DEPOSIT",1/26/18,Checking,"CITIZENS BANK, N DIR DEP",299.87," ",$299.87,
+"POS DEBIT",1/25/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-23.28," ",,$23.28
+"DIRECT DEBIT",1/25/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-109.99," ",,$109.99
+DEBIT,1/24/18,Checking,"WF HOME MTG      AUTO PAY",-1456.84," ",,"$1,456.84"
+"POS DEBIT",1/24/18,Checking,"MARKET BASKET  67 MANCHESTER   NH            6819",-38.58," ",,$38.58
+"DIRECT DEBIT",1/24/18,Checking,"WWW.NEWEGG.COM    800-390-1119 CA            6819",-354.73," ",,$354.73
+"POS DEBIT",1/23/18,Checking,"USPS PO 32324000 1GOFFSTOWN    NH            6801",-0.50," ",,$0.50
+"DIRECT DEBIT",1/23/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-99.99," ",,$99.99
+"DIRECT DEBIT",1/23/18,Checking,"AMAZON.COM AMZN.COAMZN.COM/BILLWA            6819",-11.18," ",,$11.18
+"DIRECT DEBIT",1/23/18,Checking,"FLOWERSHOPNETWORK.870-2155444  AR            6801",-100.62," ",,$100.62
+FEE,1/22/18,Checking,"EXCHANGE FEE",-0.34," ",,$0.34
+CHECK,1/22/18,Checking,,-8.50,114,,$8.50
+"DIRECT DEBIT",1/22/18,Checking,"Audible US        888-283-5051 NJ            6819",-11.17," ",,$11.17
+"POS DEBIT",1/22/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-53.71," ",,$53.71
+"POS DEBIT",1/22/18,Checking,"WM SUPERCENTER    AMHERST      NH            6801",-178.61," ",,$178.61
+"DIRECT DEBIT",1/22/18,Checking,"SMARTSTYLE        AMHERST      NH            6801",-40.93," ",,$40.93
+"DIRECT DEBIT",1/22/18,Checking,"SUBWAY        0037AMHERST      NH            6801",-10.75," ",,$10.75
+"DIRECT DEBIT",1/22/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-7.99," ",,$7.99
+"DIRECT DEBIT",1/22/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-21.08," ",,$21.08
+"DIRECT DEBIT",1/22/18,Checking,"SYMLESS           442035983068               6819",-12.00," ",,$12.00
+"DIRECT DEBIT",1/22/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-41.99," ",,$41.99
+"DIRECT DEBIT",1/19/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",-13.50," ",,$13.50
+"POS DEBIT",1/19/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-11.97," ",,$11.97
+"DIRECT DEBIT",1/19/18,Checking,"Amazon.com        AMZN.COM/BILLWA            6801",-18.48," ",,$18.48
+"DIRECT DEPOSIT",1/19/18,Checking,"CITIZENS BANK, N DIR DEP",297.50," ",$297.50,
+DEPOSIT,1/19/18,Checking,,300.00," ",$300.00,
+FEE,1/18/18,Checking,"EXCHANGE FEE",-0.41," ",,$0.41
+"POS DEBIT",1/18/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6819",-49.75," ",,$49.75
+"POS DEBIT",1/18/18,Checking,"7-ELEVEN          MANCHESTER   NH            6819",-11.99," ",,$11.99
+"POS DEBIT",1/18/18,Checking,"NETFLIX COM       LOS GATOS    CA            6819",-10.99," ",,$10.99
+"POS DEBIT",1/18/18,Checking,"AmazonPrime Memberamzn.com/prmeWA            6801",-99.00," ",,$99.00
+"DIRECT DEBIT",1/18/18,Checking,"1-800-FLOWERS.COM,800-468-1141 NY            6801",-77.98," ",,$77.98
+"DIRECT DEBIT",1/18/18,Checking,"CCP GAMES ORDERID:9                          6819",-14.95," ",,$14.95
+"DIRECT DEPOSIT",1/18/18,Checking,"30636 SILVERTECH DIR DEP",2159.71," ","$2,159.71",
+OTHER,1/17/18,Checking,,0.07," ",$0.07,
+"POS DEBIT",1/17/18,Checking,"PETSMART # 186    MANCHESTER   NH            6819",-45.99," ",,$45.99
+"DIRECT DEBIT",1/17/18,Checking,"Steamgames.com4259425-9522985  WA            6819",-19.99," ",,$19.99
+"POS DEBIT",1/16/18,Checking,"HLU*Hulu 61201170-HULU.COM/BILLCA            6801",-7.99," ",,$7.99
+"POS DEBIT",1/16/18,Checking,"STEAMGAMES.COM    425-889-9642 WA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",1/16/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-13.92," ",,$13.92
+"DIRECT DEBIT",1/16/18,Checking,"BOB NADEAUS SUBS  MANCHESTER   NH            6819",-24.25," ",,$24.25
+"DIRECT DEBIT",1/16/18,Checking,"Audible           adbl.co/bill NJ            6819",-14.95," ",,$14.95
+"DIRECT DEBIT",1/16/18,Checking,"BUFFALO WILD WINGSMANCHESTER   NH            6801",-32.28," ",,$32.28
+"DIRECT DEBIT",1/16/18,Checking,"GOOGLE *Jam City  g.co/helppay#CA            6801",-4.99," ",,$4.99
+"POS DEBIT",1/16/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-4.05," ",,$4.05
+"POS DEBIT",1/16/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-11.93," ",,$11.93
+"DIRECT DEBIT",1/16/18,Checking,"CITY OF MANCHESTERMANCHESTER   NH            6819",-0.75," ",,$0.75
+DEBIT,1/12/18,Checking,"CAPITAL ONE      ONLINE PMT",-180.00," ",,$180.00
+"POS DEBIT",1/12/18,Checking,"CUMBERLAND FAR    GOFFSTOWN    NH            6819",-32.65," ",,$32.65
+"DIRECT DEBIT",1/12/18,Checking,"RED ARROW 24 HOUR MANCHESTER   NH            6819",-14.98," ",,$14.98
+"POS DEBIT",1/12/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-8.07," ",,$8.07
+"POS DEBIT",1/12/18,Checking,"SHELL Service StatGOFFSTOWN    NH            6801",-33.94," ",,$33.94
+"POS DEBIT",1/12/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-119.37," ",,$119.37
+"DIRECT DEBIT",1/12/18,Checking,"AMZN CLDDRV TIER 8888-802-3080 WA            6819",-11.99," ",,$11.99
+CREDIT,1/12/18,Checking,"AMAZON MKTPLACE PMAMZN.COM/BILLWA            6819",257.54," ",$257.54,
+"DIRECT DEPOSIT",1/12/18,Checking,"CITIZENS BANK, N DIR DEP",299.88," ",$299.88,
+"POS DEBIT",1/11/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-64.54," ",,$64.54
+"POS DEBIT",1/11/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-9.32," ",,$9.32
+"DIRECT DEBIT",1/10/18,Checking,"GOOGLE *Jam City  g.co/helppay#CA            6801",-0.99," ",,$0.99
+"POS DEBIT",1/9/18,Checking,"STEAMGAMES.COM    425-889-9642 WA            6819",-7.49," ",,$7.49
+"DIRECT DEBIT",1/9/18,Checking,"AMAZON MKTPLACE PMWWW.AMAZON.COWA            6801",-24.95," ",,$24.95
+"DIRECT DEBIT",1/9/18,Checking,"Steamgames.com4259425-9522985  WA            6819",-4.99," ",,$4.99
+DEBIT,1/8/18,Checking,"COMCAST          CABLE",-84.95," ",,$84.95
+"POS DEBIT",1/8/18,Checking,"GOOGLE *YouTube TV855-836-3987 CA            6819",-35.00," ",,$35.00
+"DIRECT DEBIT",1/8/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-15.12," ",,$15.12
+"POS DEBIT",1/8/18,Checking,"GOOGLE *YouTube Re855-836-3987 CA            6819",-14.99," ",,$14.99
+"DIRECT DEBIT",1/8/18,Checking,"GOLDEN ACRES PIZZASTRIPE.COM   CA            6819",-13.69," ",,$13.69
+"DIRECT DEBIT",1/8/18,Checking,"DAILY WIRE        817-8503600  TX            6819",-7.99," ",,$7.99
+"POS DEBIT",1/5/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-35.50," ",,$35.50
+"POS DEBIT",1/5/18,Checking,"SULLY'S SUPERE    GOFFSTOWN    NH            6801",-8.94," ",,$8.94
+"DIRECT DEBIT",1/5/18,Checking,"Valve             425-8899642  WA            6819",-7.99," ",,$7.99
+"DIRECT DEPOSIT",1/5/18,Checking,"CITIZENS BANK, N DIR DEP",299.86," ",$299.86,
+"POS DEBIT",1/4/18,Checking,"Wal-Mart Super    HOOKSETT     NH            6819",-164.93," ",,$164.93
+"DIRECT DEBIT",1/4/18,Checking,"ATLANTIC INNOVATIO888-660-8970 NH            6801",-103.85," ",,$103.85
+"DIRECT DEBIT",1/4/18,Checking,"CITY OF MANCHESTERMANCHESTER   NH            6819",-0.75," ",,$0.75
+"DIRECT DEPOSIT",1/4/18,Checking,"30636 SILVERTECH DIR DEP",2217.72," ","$2,217.72",
+DEBIT,1/3/18,Checking,"THE GRANITE YMCA ELEC DRAFT",-76.00," ",,$76.00
+"DIRECT DEBIT",1/3/18,Checking,"WENDYS            MANCHESTER   NH            6801",-31.24," ",,$31.24
+DEBIT,1/2/18,Checking,"PROG NORTHERN    INS PREM",-89.76," ",,$89.76
+DEBIT,1/2/18,Checking,"VERIZON WIRELESS PAYMENTS",-138.56," ",,$138.56
+"DIRECT DEBIT",1/2/18,Checking,"DUNKIN #339732 Q35BEDFORD      NH            6801",-17.06," ",,$17.06
+"POS DEBIT",1/2/18,Checking,"WAL-MART #2399    MANCHESTER   NH            6801",-89.61," ",,$89.61
+"POS DEBIT",1/2/18,Checking,"IPSY   *GLAM BAG  HELP.IPSY.COMCA            6801",-10.00," ",,$10.00
+"POS DEBIT",1/2/18,Checking,"NH LIQUOR STOR    MANCHESTER   NH            6819",-59.96," ",,$59.96
+"POS DEBIT",1/2/18,Checking,"WM SUPERCENTER    HOOKSETT     NH            6819",-175.56," ",,$175.56

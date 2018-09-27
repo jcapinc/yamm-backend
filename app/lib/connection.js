@@ -31,17 +31,28 @@ const Category = sequelize.define('categories',{
 });
 Category.belongsTo(Category,{as:"parent"});
 
+
 const TransactionCategory = sequelize.define('transaction_categories',{
 	id:uuidPrimary,
-	transaction: {type: Sequelize.UUID,references: {model: Transaction,key: 'id'}},
-	category: {type: Sequelize.UUID,references: {model:Category,key: 'id'}}
+	transactionId: {type: Sequelize.UUID,references: {model: Transaction,key: 'id'}},
+	categoryId: {type: Sequelize.UUID,references: {model:Category,key: 'id'}}
 },{uniqueKeys:{ unique_categorization: {fields:['transaction','category']}}});
-sequelize.sync();
+
+TransactionCategory.belongsTo(Category);
 
 const CategoryRule = sequelize.define("category_rules",{
 	id:uuidPrimary,
 	regex:Sequelize.STRING
 });
 CategoryRule.belongsTo(Category);
+Category.hasMany(CategoryRule);
 
-module.exports = {sequelize,Account,Transaction,Category,TransactionCategory};
+sequelize.sync();
+module.exports = {
+	sequelize,
+	Account,
+	Transaction,
+	Category,
+	TransactionCategory,
+	CategoryRule
+};

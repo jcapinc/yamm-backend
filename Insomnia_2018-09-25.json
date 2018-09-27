@@ -1,0 +1,559 @@
+{
+	"_type": "export",
+	"__export_format": 3,
+	"__export_date": "2018-09-26T01:27:00.219Z",
+	"__export_source": "insomnia.desktop.app:v6.0.2",
+	"resources": [
+		{
+			"_id": "wrk_3da4799d55d64592842072a80b8112a1",
+			"created": 1535585910482,
+			"description": "",
+			"modified": 1535585910482,
+			"name": "Insomnia",
+			"parentId": null,
+			"_type": "workspace"
+		},
+		{
+			"_id": "env_7c9c73a3a3c84303a065b7672194f440",
+			"color": null,
+			"created": 1535585910502,
+			"data": {
+				"yamm": {
+					"baseurl": "http://localhost:8080"
+				}
+			},
+			"isPrivate": false,
+			"metaSortKey": 1535585910502,
+			"modified": 1537736328446,
+			"name": "New Environment",
+			"parentId": "wrk_3da4799d55d64592842072a80b8112a1",
+			"_type": "environment"
+		},
+		{
+			"_id": "jar_3eda8eea7478431090c55ee32b537dcd",
+			"cookies": [],
+			"created": 1535585910503,
+			"modified": 1535585910503,
+			"name": "Default Jar",
+			"parentId": "wrk_3da4799d55d64592842072a80b8112a1",
+			"_type": "cookie_jar"
+		},
+		{
+			"_id": "fld_53cd67e77c8f4505ba884ded670402a8",
+			"created": 1537022909359,
+			"description": "",
+			"environment": {},
+			"metaSortKey": -1537022909359,
+			"modified": 1537022909359,
+			"name": "YAMM",
+			"parentId": "wrk_3da4799d55d64592842072a80b8112a1",
+			"_type": "request_group"
+		},
+		{
+			"_id": "env_4364a426a3c0437ea40e6616d1ce7a07",
+			"color": null,
+			"created": 1537736227415,
+			"data": {},
+			"isPrivate": false,
+			"metaSortKey": 1537736227415,
+			"modified": 1537736248239,
+			"name": "Local",
+			"parentId": "env_7c9c73a3a3c84303a065b7672194f440",
+			"_type": "environment"
+		},
+		{
+			"_id": "env_ca378897250641b799ec190d18821b82",
+			"color": null,
+			"created": 1537736232910,
+			"data": {
+				"yamm": {
+					"baseurl": "http://dns.jeffreyparrish.net:8080"
+				}
+			},
+			"isPrivate": false,
+			"metaSortKey": 1537736232910,
+			"modified": 1537736334225,
+			"name": "Local Server",
+			"parentId": "env_7c9c73a3a3c84303a065b7672194f440",
+			"_type": "environment"
+		},
+		{
+			"_id": "env_a209e9b0429c4e3eb47b18f8d8b7b379",
+			"color": null,
+			"created": 1537736239627,
+			"data": {},
+			"isPrivate": false,
+			"metaSortKey": 1537736239627,
+			"modified": 1537736302821,
+			"name": "Remote Server",
+			"parentId": "env_7c9c73a3a3c84303a065b7672194f440",
+			"_type": "environment"
+		},
+		{
+			"_id": "fld_adec2f54536c4f17ad414ca80e645bcb",
+			"created": 1537834938843,
+			"description": "",
+			"environment": {},
+			"metaSortKey": -1536104539847.125,
+			"modified": 1537834947260,
+			"name": "Reports",
+			"parentId": "fld_53cd67e77c8f4505ba884ded670402a8",
+			"_type": "request_group"
+		},
+		{
+			"_id": "fld_8e447298cbe14e6e977222061c6b2eed",
+			"created": 1537834990595,
+			"description": "",
+			"environment": {},
+			"metaSortKey": -1536121546821.9375,
+			"modified": 1537834993446,
+			"name": "Categories",
+			"parentId": "fld_53cd67e77c8f4505ba884ded670402a8",
+			"_type": "request_group"
+		},
+		{
+			"_id": "req_0a4aa064ed8f4a0388f9995b81b7f739",
+			"authentication": {},
+			"body": {},
+			"created": 1537022916487,
+			"description": "",
+			"headers": [],
+			"isPrivate": false,
+			"metaSortKey": -1537022916487,
+			"method": "GET",
+			"modified": 1537845035896,
+			"name": "Hello World",
+			"parameters": [
+				{
+					"id": "pair_ae32edd5b8314e1d93a4555c6f99a9bc",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				}
+			],
+			"parentId": "fld_53cd67e77c8f4505ba884ded670402a8",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/",
+			"_type": "request"
+		},
+		{
+			"_id": "req_22126114e1964d029f1a023adca1f466",
+			"authentication": {},
+			"body": {
+				"mimeType": "multipart/form-data",
+				"params": [
+					{
+						"fileName": "C:\\Users\\jeffs\\Downloads\\EXPORT (11).CSV",
+						"id": "pair_cf0834db7cdb4c05b37a2955286043d8",
+						"name": "transactions",
+						"type": "file",
+						"value": ""
+					},
+					{
+						"id": "pair_fb70f74c519e457ba97b40f1cf6ef716",
+						"name": "",
+						"value": ""
+					}
+				]
+			},
+			"created": 1537037736552,
+			"description": "",
+			"headers": [
+				{
+					"id": "pair_6f0a5c1af2fa43929e587ac5941c5b37",
+					"name": "Content-Type",
+					"value": "multipart/form-data"
+				}
+			],
+			"isPrivate": false,
+			"metaSortKey": -1536478693293,
+			"method": "POST",
+			"modified": 1537845525158,
+			"name": "import transactions",
+			"parameters": [
+				{
+					"id": "pair_08db6c92498f4750b78c4393e9de321e",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				}
+			],
+			"parentId": "fld_53cd67e77c8f4505ba884ded670402a8",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Import/ImportFile",
+			"_type": "request"
+		},
+		{
+			"_id": "req_53b656aac32f42a599a28e78abc7bd54",
+			"authentication": {},
+			"body": {},
+			"created": 1537732126193,
+			"description": "",
+			"headers": [],
+			"isPrivate": false,
+			"metaSortKey": -1536750804890,
+			"method": "POST",
+			"modified": 1537877470510,
+			"name": "Login",
+			"parameters": [
+				{
+					"id": "pair_e63e0030c7464f52b5feacd88f17ffa2",
+					"name": "username",
+					"value": "jcapinc"
+				},
+				{
+					"id": "pair_3e7e05183fa842a6908f3cbd8007a200",
+					"name": "password",
+					"value": "hercules1"
+				}
+			],
+			"parentId": "fld_53cd67e77c8f4505ba884ded670402a8",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/login",
+			"_type": "request"
+		},
+		{
+			"_id": "req_ac554980f72b4515b94bf334b0a17ab2",
+			"authentication": {},
+			"body": {},
+			"created": 1537674712989,
+			"description": "",
+			"headers": [
+				{
+					"id": "pair_6f0a5c1af2fa43929e587ac5941c5b37",
+					"name": "Content-Type",
+					"value": "multipart/form-data"
+				}
+			],
+			"isPrivate": false,
+			"metaSortKey": -1536070525897.5,
+			"method": "GET",
+			"modified": 1537845639761,
+			"name": "Report Total By Month",
+			"parameters": [
+				{
+					"id": "pair_9b9a43dfe08d4a07b9842f0e4318d610",
+					"name": "year",
+					"value": "2018"
+				},
+				{
+					"id": "pair_78682c8133ba4441804d5dd7fab37375",
+					"name": "month",
+					"value": "9"
+				},
+				{
+					"id": "pair_fbd6d7be9ef443c488862d0f9a4a300d",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				}
+			],
+			"parentId": "fld_adec2f54536c4f17ad414ca80e645bcb",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Report/TotalByMonth",
+			"_type": "request"
+		},
+		{
+			"_id": "req_7c1d72972f164f16928ab480101c3279",
+			"authentication": {},
+			"body": {},
+			"created": 1537704977309,
+			"description": "",
+			"headers": [
+				{
+					"id": "pair_6f0a5c1af2fa43929e587ac5941c5b37",
+					"name": "Content-Type",
+					"value": "multipart/form-data"
+				}
+			],
+			"isPrivate": false,
+			"metaSortKey": -1536070525797.5,
+			"method": "GET",
+			"modified": 1537834954496,
+			"name": "Report Total By Week",
+			"parameters": [
+				{
+					"id": "pair_9b9a43dfe08d4a07b9842f0e4318d610",
+					"name": "year",
+					"value": "2018"
+				},
+				{
+					"id": "pair_78682c8133ba4441804d5dd7fab37375",
+					"name": "week",
+					"value": "35"
+				},
+				{
+					"id": "pair_fbd6d7be9ef443c488862d0f9a4a300d",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				}
+			],
+			"parentId": "fld_adec2f54536c4f17ad414ca80e645bcb",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Report/TotalByWeek",
+			"_type": "request"
+		},
+		{
+			"_id": "req_a8f54166ac084cb2a9854233be3c498f",
+			"authentication": {},
+			"body": {},
+			"created": 1537706058635,
+			"description": "",
+			"headers": [],
+			"isPrivate": false,
+			"metaSortKey": -1536070525847.5,
+			"method": "GET",
+			"modified": 1537877446104,
+			"name": "Report Totals By Month",
+			"parameters": [
+				{
+					"id": "pair_0ecd27b74383432e970ad06a93248a8e",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				}
+			],
+			"parentId": "fld_adec2f54536c4f17ad414ca80e645bcb",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Report/TotalsByMonth",
+			"_type": "request"
+		},
+		{
+			"_id": "req_9b1b8e4816824de9906a4e150d47b6c4",
+			"authentication": {},
+			"body": {},
+			"created": 1537728588709,
+			"description": "",
+			"headers": [],
+			"isPrivate": false,
+			"metaSortKey": -1536070525747.5,
+			"method": "GET",
+			"modified": 1537834955620,
+			"name": "Report Totals By Week",
+			"parameters": [
+				{
+					"id": "pair_7298a5c1a9ca445198471137bf85f7ae",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				}
+			],
+			"parentId": "fld_adec2f54536c4f17ad414ca80e645bcb",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Report/TotalsByWeek",
+			"_type": "request"
+		},
+		{
+			"_id": "req_b12a269f1276406e934d283832de5908",
+			"authentication": {},
+			"body": {},
+			"created": 1537674268553,
+			"description": "",
+			"headers": [
+				{
+					"id": "pair_6f0a5c1af2fa43929e587ac5941c5b37",
+					"name": "Content-Type",
+					"value": "multipart/form-data"
+				}
+			],
+			"isPrivate": false,
+			"metaSortKey": -1536206581696,
+			"method": "GET",
+			"modified": 1537835121299,
+			"name": "Regex Test / Search",
+			"parameters": [
+				{
+					"id": "pair_9b9a43dfe08d4a07b9842f0e4318d610",
+					"name": "regex",
+					"value": "d"
+				},
+				{
+					"id": "pair_097a0e04670c4eb899e71b0943d4b511",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				}
+			],
+			"parentId": "fld_8e447298cbe14e6e977222061c6b2eed",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Categorization/TestRegex",
+			"_type": "request"
+		},
+		{
+			"_id": "req_845d4ae85b2e4bfbb1053e6d94c925ef",
+			"authentication": {},
+			"body": {},
+			"created": 1537833853788,
+			"description": "",
+			"headers": [
+				{
+					"id": "pair_6f0a5c1af2fa43929e587ac5941c5b37",
+					"name": "Content-Type",
+					"value": "multipart/form-data"
+				}
+			],
+			"isPrivate": false,
+			"metaSortKey": -1536206581646,
+			"method": "GET",
+			"modified": 1537877472474,
+			"name": "Get Categories",
+			"parameters": [
+				{
+					"id": "pair_9b9a43dfe08d4a07b9842f0e4318d610",
+					"name": "regex",
+					"value": "d"
+				},
+				{
+					"id": "pair_097a0e04670c4eb899e71b0943d4b511",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				}
+			],
+			"parentId": "fld_8e447298cbe14e6e977222061c6b2eed",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Categorization/Categories",
+			"_type": "request"
+		},
+		{
+			"_id": "req_596e216f83834316b67ec289b5ecd913",
+			"authentication": {},
+			"body": {},
+			"created": 1537835125776,
+			"description": "",
+			"headers": [
+				{
+					"id": "pair_6f0a5c1af2fa43929e587ac5941c5b37",
+					"name": "Content-Type",
+					"value": "multipart/form-data"
+				}
+			],
+			"isPrivate": false,
+			"metaSortKey": -1536138553771.75,
+			"method": "POST",
+			"modified": 1537922285839,
+			"name": "Create Category",
+			"parameters": [
+				{
+					"id": "pair_9b9a43dfe08d4a07b9842f0e4318d610",
+					"name": "name",
+					"value": "Walmart"
+				},
+				{
+					"id": "pair_097a0e04670c4eb899e71b0943d4b511",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				},
+				{
+					"disabled": true,
+					"id": "pair_12f8bcb23649468b9181f0188615fa50",
+					"name": "parent",
+					"value": "a2ccdc83-33d8-4a58-8e36-a444473bab6c"
+				},
+				{
+					"id": "pair_60002b561abb435dafb5a462173effcc",
+					"name": "parent",
+					"value": "{% response 'body', 'req_596e216f83834316b67ec289b5ecd913', '$.id' %}"
+				}
+			],
+			"parentId": "fld_8e447298cbe14e6e977222061c6b2eed",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Categorization/CreateCategory",
+			"_type": "request"
+		},
+		{
+			"_id": "req_d8933e9beede476e8ef9b69798dd3bb9",
+			"authentication": {},
+			"body": {},
+			"created": 1537925163839,
+			"description": "",
+			"headers": [
+				{
+					"id": "pair_6f0a5c1af2fa43929e587ac5941c5b37",
+					"name": "Content-Type",
+					"value": "multipart/form-data"
+				}
+			],
+			"isPrivate": false,
+			"metaSortKey": -1536104539834.625,
+			"method": "POST",
+			"modified": 1537925171407,
+			"name": "Create Category Rule",
+			"parameters": [
+				{
+					"id": "pair_9b9a43dfe08d4a07b9842f0e4318d610",
+					"name": "name",
+					"value": "Walmart"
+				},
+				{
+					"id": "pair_097a0e04670c4eb899e71b0943d4b511",
+					"name": "authorization",
+					"value": "{% response 'body', 'req_53b656aac32f42a599a28e78abc7bd54', '$.token' %}"
+				},
+				{
+					"disabled": true,
+					"id": "pair_12f8bcb23649468b9181f0188615fa50",
+					"name": "parent",
+					"value": "a2ccdc83-33d8-4a58-8e36-a444473bab6c"
+				},
+				{
+					"id": "pair_60002b561abb435dafb5a462173effcc",
+					"name": "parent",
+					"value": "{% response 'body', 'req_596e216f83834316b67ec289b5ecd913', '$.id' %}"
+				}
+			],
+			"parentId": "fld_8e447298cbe14e6e977222061c6b2eed",
+			"settingDisableRenderRequestBody": false,
+			"settingEncodeUrl": true,
+			"settingMaxTimelineDataSize": 1000,
+			"settingRebuildPath": true,
+			"settingSendCookies": true,
+			"settingStoreCookies": true,
+			"url": "{{ yamm.baseurl  }}/v1/Categorization/CreateCategory",
+			"_type": "request"
+		}
+	]
+}
