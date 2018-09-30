@@ -5,7 +5,8 @@ module.exports = class CategorizationController {
 			FROM `transactions`\
 			LEFT JOIN `transaction_categories` ON `transaction_categories`.`transactionId`=`transactions`.id\
 			WHERE `transaction_categories`.`id` IS NULL\
-			GROUP BY `transactions`.`id`";
+			GROUP BY `transactions`.`id` \
+			ORDER BY `transactions`.`date`";
 	}
 	getTestRegex(request,response){
 		let regString = request.query.regex;
@@ -32,22 +33,22 @@ module.exports = class CategorizationController {
 	}
 
 	postCreateCategory(request,response){
-		if(!request.query.name){
-			return response.setStatus(400).send({error: true, message:"Name is a required field"});
+		if(!request.body.name){
+			return response.status(400).send({error: true, message:"Name is a required field"});
 		}
 		let NewCategory = null;
 		return db.Category.create({
-			name: request.query.name,
-			parentId: request.query.parent || null
+			name: request.body.name,
+			parentId: request.body.parent || null
 		}).then(category => {
-			if(!request.query.regex){
+			if(!request.body.regex){
 				response.send(category);
 				return false;
 			}
 			NewCategory = category;
 			return db.CategoryRule.create({
 				categoryId:category.id,
-				regex: request.query.regex
+				regex: request.body.regex
 			});
 		}).then(categoryRule => {
 			if(categoryRule) return response.send({
@@ -108,6 +109,23 @@ module.exports = class CategorizationController {
 			return Promise.all(operations);
 		}).then(FinalResults => {
 			return response.send(FinalResults);
+		});
+	}
+
+	putCategorizeSingle(request,response){
+		return db.Transaction.findAll({where:{id : request.body.transaction}}).then(result => {
+			if(result.length === 0) return Promise.reject({error:true,message:"Transaction does not exist"});
+			return db.Category.findAll({where:{id: request.body.category}});
+		}).then(result => {
+			if(result.length === 0) return Promise.reject({error:true,message:"Category does not exist"});
+			return db.TransactionCategory.create({
+				categoryId: request.body.category,
+				transactionId: request.body.transaction
+			})
+		}).then(result => {
+			response.send(result);
+		}).catch(error => {
+			response.status(400).send(error);
 		});
 	}
 }

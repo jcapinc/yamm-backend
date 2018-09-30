@@ -8,7 +8,7 @@
     "dev": "nodemon -w app -w serve.js -w .env serve.js",
     "debug": "node --no-lazy --inspect-brk=2992  serve.js",
     "run": "node serve.js",
-    "clear-db":"del database.sqlite"
+    "clear-db": "del database.sqlite"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/jcapinc/yamm#readme",
   "dependencies": {
     "blueimp-md5": "^2.10.0",
+    "body-parser": "^1.18.3",
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",

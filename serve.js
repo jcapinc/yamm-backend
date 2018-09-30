@@ -6,6 +6,7 @@ const app = require('./app/app.js');
 const jwt = require('jsonwebtoken');
 const md5 = require('blueimp-md5');
 const passportJWT = require("passport-jwt");
+const parser = require("body-parser");
 
 require('dotenv').config();
 
@@ -14,6 +15,13 @@ const ExtractJWT = passportJWT.ExtractJwt;
 const upload = multer();
 let pattern = '\/[A-Za-z\/_]+';
 let expressApp = express();
+expressApp.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
+
+expressApp.use(parser.urlencoded({ extended: true })); 
 
 let dispatch = (req,res) => {
 	console.log("dispatching " + req.method + " " + req.path);
