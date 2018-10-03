@@ -57,23 +57,29 @@ module.exports = class CategorizationController {
 			});
 		});
 	}
+	deleteCategory(request,response){
+		if(!request.query.id)return response.status(400).send({error:true,message:"id is a required field"});
+		return db.Category.findById(request.query.id).then(category => {
+			category.destroy().then(result => response.send({error: false, result:result }));
+		});
+	}
 
 	postCreateRule(request,response){
-		if(!request.query.regex){
+		if(!request.body.regex){
 			return response.setStatus(400).send({
 				error: true,
 				message:"regex is a required field"
 			});
 		}
-		if(!request.query.category){
+		if(!request.body.category){
 			return response.setStatus(400).send({
 				error: true,
 				message:"category is a required field"
 			});
 		}
 		return db.CategoryRule.create({
-			categoryId: request.query.category,
-			regex: request.query.regex
+			categoryId: request.body.category,
+			regex: request.body.regex
 		}).then(result => {
 			response.send(result);
 		});

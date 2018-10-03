@@ -17,11 +17,12 @@ let pattern = '\/[A-Za-z\/_]+';
 let expressApp = express();
 expressApp.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+	res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+	res.header("Access-Control-Allow-Methods", "GET, POST, OPTIONS, PUT, DELETE");
   next();
 });
 
-expressApp.use(parser.urlencoded({ extended: true })); 
+expressApp.use(parser.json()); 
 
 let dispatch = (req,res) => {
 	console.log("dispatching " + req.method + " " + req.path);
@@ -82,6 +83,7 @@ appRouter.get(pattern, dispatch);
 appRouter.post(pattern, dispatch);
 appRouter.put(pattern, dispatch);
 appRouter.patch(pattern, dispatch);
+appRouter.delete(pattern, dispatch);
 
 expressApp.listen(process.env.EXPRESS_PORT, () => {
 	console.log("Serving on " + process.env.EXPRESS_PORT)
