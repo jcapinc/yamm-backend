@@ -30,7 +30,10 @@ const Category = sequelize.define('categories',{
 	name: Sequelize.STRING,
 });
 Category.belongsTo(Category,{as:"parent"});
-
+Transaction.belongsToMany(Category,{
+	through:'transaction_categories',
+	as: 'categories'
+});
 
 const TransactionCategory = sequelize.define('transaction_categories',{
 	id:uuidPrimary,

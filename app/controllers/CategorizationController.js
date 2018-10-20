@@ -27,7 +27,7 @@ module.exports = class CategorizationController {
 		return db.Category.findAll({
 			include: [
 				{model: db.CategoryRule},
-				{model: db.Category,as:'parent'}
+				{model: db.Category,as: 'parent'}
 			]
 		}).then(result => response.send(result));
 	}
@@ -110,6 +110,8 @@ module.exports = class CategorizationController {
 				operations.push(db.TransactionCategory.create({
 					categoryId: Category,
 					transactionId: transaction.id
+				}).catch(error => {
+					console.warn(error);
 				}));
 			}
 			return Promise.all(operations);
