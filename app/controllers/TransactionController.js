@@ -17,4 +17,30 @@ module.exports = class TransactionController{
 			.then(results => response.send(results))
 			.catch(error =>response.send({error:true, message: error}));
 	}
+	deleteTransaction(request,response){
+		if(typeof request.query.transaction !== "string"){
+			return response.setStatus(400).send({
+				error: true,
+				message: "Please send the transaction string in the query string"
+			});
+		}
+		console.log(request.query.transaction);
+		return db.TransactionCategory.destroy({where: {transactionId:request.query.transaction}}).then(result => {
+			return db.Transaction.findById(request.query.transaction)
+		}).then(transaction => {
+			return transaction.destroy()
+		}).then(result => {
+			return response.send({
+				error: false,
+				message: `Deleted transaction ${request.query.transaction} deleted successfully`,
+				result: result
+			})
+		}).catch(error => {
+			return response.send({
+				error: true,
+				message: `There was a problem deleting the transaction ${request.query.transaction}`,
+				result: error
+			});
+		});
+	}
 }
