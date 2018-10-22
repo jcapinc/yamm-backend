@@ -1,4 +1,4 @@
-const Sequelize = require("Sequelize");
+const Sequelize = require("sequelize");
 const db = require("../lib/connection.js");
 module.exports = class ReportController{
 	getTotalByMonth(request,response){
