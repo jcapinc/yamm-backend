@@ -57,6 +57,7 @@ module.exports = class CategorizationController {
 			});
 		});
 	}
+	
 	deleteCategory(request,response){
 		if(!request.query.id)return response.status(400).send({error:true,message:"id is a required field"});
 		return db.Category.findById(request.query.id).then(category => {
@@ -121,19 +122,30 @@ module.exports = class CategorizationController {
 	}
 
 	putCategorizeSingle(request,response){
-		return db.Transaction.findAll({where:{id : request.body.transaction}}).then(result => {
+		if(typeof request.query.transaction === "undefined") response.status(400).send({
+			error: true,
+			message: "Transaction field is required"
+		});
+		if(typeof request.query.category === "undefined") response.status(400).send({
+			error: true,
+			message: "Category field is required"
+		});
+
+		return db.TransactionCategory.destroy({where: {transactionId: request.query.transaction}})
+			.then(() => db.Transaction.findById(request.query.transaction)).then(result => {
 			if(result.length === 0) return Promise.reject({error:true,message:"Transaction does not exist"});
-			return db.Category.findAll({where:{id: request.body.category}});
+			return db.Category.findById(request.query.category);
 		}).then(result => {
 			if(result.length === 0) return Promise.reject({error:true,message:"Category does not exist"});
 			return db.TransactionCategory.create({
-				categoryId: request.body.category,
-				transactionId: request.body.transaction
-			})
+				categoryId: request.query.category,
+				transactionId: request.query.transaction
+			});
 		}).then(result => {
-			response.send(result);
-		}).catch(error => {
-			response.status(400).send(error);
+			response.send({error: false, result});
+		}).catch(result => {
+			if(result.error) return response.status(400).send(result);
+			return response.status(500).send({error: true, result});
 		});
 	}
 }
