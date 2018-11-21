@@ -9,9 +9,11 @@ a transaction should categorize into.
 git clone https://github.com/jcapinc/yamm
 git clone https://github.com/jcapinc/yamm-frontend
 cd yamm 
+npm i
 npm run dev
 
 # in a new terminal
 cd yamm-frontend
+npm i 
 npm start
 ```
