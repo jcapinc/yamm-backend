@@ -10,6 +10,7 @@ git clone https://github.com/jcapinc/yamm
 git clone https://github.com/jcapinc/yamm-frontend
 cd yamm 
 npm i
+# duplicate `.env-example` file into a file called `.env` and configure it accordingly
 npm run dev
 
 # in a new terminal
