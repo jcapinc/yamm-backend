@@ -101,13 +101,13 @@ module.exports = class CategorizationController {
 			let Transactions = results[1];
 			let matchingTransactions = {};
 			for( let rule of Rules ) {
-				let regex = new RegExp(rule.regex,'i');
-				matchingTransactions[rule.categoryId] = Transactions.filter(transaction => regex.exec(transaction.description) !== null);
+				const regex = new RegExp(rule.regex,'i');
+				const trx = Transactions.filter(transaction => regex.exec(transaction.description) !== null);
+				if(!matchingTransactions[rule.categoryId]) matchingTransactions[rule.categoryId] = trx;
+				else matchingTransactions[rule.categoryId] = [...matchingTransactions[rule.categoryId], ...trx];
 			}
-			return matchingTransactions;
-		}).then( transactions => {
 			let operations = [];
-			for(let Category in transactions) for ( let transaction of transactions[Category]) {
+			for(let Category in matchingTransactions) for ( let transaction of matchingTransactions[Category]) {
 				operations.push(db.TransactionCategory.create({
 					categoryId: Category,
 					transactionId: transaction.id

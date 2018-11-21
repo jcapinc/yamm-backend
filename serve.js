@@ -74,10 +74,8 @@ expressApp.post('/login', (req,res,next) => {
 let appRouter = express.Router();
 expressApp.use('/v1',passport.authenticate('jwt',{session:false}),appRouter);
 appRouter.get('/' , (request,response,next) => {response.send("hello world");});
-appRouter.post('/Import/ImportFile', upload.single('transactions'), (req,res) => {
-	console.log("upload triggered");
-	return dispatch(req,res);
-});
+appRouter.post('/Import/ImportFile', upload.single('transactions'), dispatch);
+appRouter.post('/Import/ImportIIF', upload.single('transactions'), dispatch);
 
 appRouter.get(pattern, dispatch);
 appRouter.post(pattern, dispatch);

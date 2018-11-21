@@ -18,11 +18,12 @@ const Account = sequelize.define('accounts',{
 
 const Transaction = sequelize.define('transactions',{
 	id: uuidPrimary,
+	transactionid: Sequelize.STRING,
 	description: Sequelize.STRING,
 	date: Sequelize.DATE,
 	debit: Sequelize.FLOAT,
 	credit: Sequelize.FLOAT
-},{uniqueKeys: {unique_transaction: true,fields: ['date','description','debit','credit']}});
+},{uniqueKeys: {unique_transaction: true,fields: ['transactionid']}});
 Transaction.hasOne(Account);
 
 const Category = sequelize.define('categories',{
