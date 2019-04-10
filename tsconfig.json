@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"outDir": "./build",
+		"module": "commonjs",
+		"target": "es6",
+		"noImplicitAny": true,
+		"sourceMap": true
+	},
+	"include": [
+		"app/controllers/**/*.ts",
+		"app/lib/**/*.ts",
+		"app/models/**/*.ts",
+		"app/app.ts",
+		"app/bootstap.ts",
+		"app/localAuth.ts"
+	],
+	"compileOnSave": true
+}
